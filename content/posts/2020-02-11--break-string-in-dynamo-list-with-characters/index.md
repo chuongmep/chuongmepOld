@@ -27,17 +27,20 @@ separator =",";
 
 ```
 #### Bước 2:
-Nối danh sách đầu vào và đầu vào và thêm một Node **Watch** để xem thông tin thử nào.
+Nối danh sách đầu vào và đầu vào và thêm một Node [Watch](https://dynamonow.com/watch-node/) để xem thông tin thử nào.
+
 ![](https://github.com/chuong9x/DataBlog/blob/master/BreakStringDynamo/List.Separator.png?raw=true)
 #### Bước 3:
 Hoàn thiện lại node của mình  theo ý muốn và kết hợp với node [Clipboard](https://dynamonodes.com/2016/01/07/clipboard-sendto/) để sài thôi.
+
 ![](https://github.com/chuong9x/DataBlog/blob/master/BreakStringDynamo/String.Separator02.png?raw=true)
 
-- Nếu các bước trên bạn thực hiện vẫn chưa ra kết quả như mong muốn, bạn có thể tải gói **Dyn** mình đã gửi lên tham khảo [Tại đây](https://github.com/chuong9x/DataBlog/blob/master/BreakStringDynamo/String.Separator.dyn)
+Nếu các bước trên bạn thực hiện vẫn chưa ra kết quả như mong muốn, bạn có thể tải gói **Dyn** mình đã gửi lên tham khảo [Tại đây](https://github.com/chuong9x/DataBlog/blob/master/BreakStringDynamo/String.Separator.dyn)
 ---
 
 #### Tổng kết
 Vậy là mình đã giúp các bạn ngăn cách được các đối tượng thật dễ dàng phải không nào, nếu thấy hay bạn hãy ghi chú lại , biết đâu sau này bạn sẽ thấy nó ở đâu và bạn muốn áp dụng cho một bài toán nào đó, chúc các bạn thành công!
 
 ### Tham khảo :
+
 [Dynamo Forum](https://forum.dynamobim.com/t/loop-introduce-multiple-parameters-to-an-instance-element/26825/3)
