@@ -32,3 +32,14 @@ Khi bạn đã rành rỏi các trang trên kia rồi thì việc mở mang cho 
 
 Trang này cũng là tài liệu về lập trình cho Dynamo, tuy nhiên đi sâu hơn vào giải thích chi tiết công việc lập trình hơn, đó chính là những thủ tục, cú pháp, làm như thế nào để tiếp cận với lập trình và can thiệp vào trong môi trường Revit nếu bạn là người mới vào nghề cũng sẽ hình dung và hiểu được.
 [Website](https://dynamopythonprimer.gitbook.io/dynamo-python-primer/) 
+
+
+### RevitPythonShell
+
+Trang này giới thiệu cho mình cách viết mã can thiệp vào revit với Python, ở đây mình sẽ hiểu được những khái niệm cơ bản của python và triển khai như thế nào trong revit.Đây là một cách viết gần hơn với ngôn ngữ mã nguồn mở rất phát triển.
+[Website](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/)
+
+### pyRevit 
+
+Đây là cách lập trình Add-in mới được tác giả [Ehsan Iran-Nejad](https://github.com/eirannejad) Giới thiệu.Với tài liệu này, mình sẽ học được cách tiếp cận mã Python, tạo môi trường và các công cụ nút chọn tương tự như ta viết mã với ngôn ngữ C#, tuy nhiên nó đơn giản hơn và cách viết, cách chạy cũng khác hơn hẳn, tương lai đây là một dự án rất tiềm năng.
+[Website](https://pyrevit1.readthedocs.io/en/latest/index.html) 
