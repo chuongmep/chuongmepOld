@@ -1,75 +1,30 @@
-## Description
 
-A ready to use, easy to customize [GatsbyJS](https://github.com/gatsbyjs/gatsby) personal blog starter with 'like app' layout transitions.
+### Dynamo Forum
 
-## Features:
+Trang này mỗi khi mình rảnh là mình lại lên đọc, vừa tham gia giải đáp được những câu hỏi , vừa giúp đỡ người khác và tìm ra ý tưởng thực hiện bài toán cho riêng minh.
+[Website](https://forum.dynamobim.com/) | [Github repo](https://github.com/DynamoDS/Dynamo)
 
-- Customizable
-- Easy editable content in Markdown files (posts, pages and parts)
-- Easily restyled through theme object
-- Styling with JSS
-- Comments (Facebook)
-- Post categories
-- Post list filtering
-- Full text searching (Algolia)
-- Contact form (Netlify form handling)
-- Material UI (@next)
-- RSS feed
-- Full screen mode
-- User adjustable articles’ body copy font size
-- Social sharing (Twitter, Facebook, Google, LinkedIn)
-- PWA (manifest.json, offline support, favicons)
-- Google Analytics
-- Favicons generator (node script)
-- Components lazy loading with AsyncComponent (social sharing, info box)
-- ESLint (google config)
-- Prettier code styling
-- Custom webpack CommonsChunkPlugin settings
-- Webpack BundleAnalyzerPlugin
+### Dynamo Dictionary
 
-## Prerequisites
+Trang này bao gồm các ví dụ cơ bản nhất tương tự như một [Dynamo Sanbox](https://dynamobim.org/a-new-way-to-get-dynamo-sandbox/) vậy, tại đây mình có một mớ bài ví dụ mẫu cụ thể và giải thích cho từng node rất chi là sịn sò, anh em nào không hiểu có thể chạy lên đây tra cứu trong những lúc không nhớ mình là ai!
+[Website](https://dictionary.dynamobim.com/)
 
-If you do not have Gatsby Cli installed yet, do it first.
+### Dynamo Primer
 
-```text
-npm install --global gatsby-cli
-```
+Một cuốn sách học thuật từ đầu đến cuối cho người mới bắt đầu.Nếu bạn là newbie hay là Pro gì thì cũng nên xem qua cái này hết, giải thích rất chi tiết và mạch lạc.
+[Website](https://primer.dynamobim.org/) 
 
-More information on [GatsbyJS.org](https://www.gatsbyjs.org/tutorial/part-one)
+### Dynamo Package
 
-## Getting started
+Trang này sẽ giải quyết vấn đề giữa các phiên bản 1x và 2x, nếu bạn tải các gói không tương thích hoặc Dynamo quá cũ khiến bạn thông thể tải gói về , đây là trang sẽ giành cho bạn tìm về kí ức và tải những gói đó. 
+[Website](https://primer.dynamobim.org/) 
 
-Install the starter using Gatsby Cli `gatsby new` command.
+### Dynamo Developer
 
-```text
-gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/greglobinski/gatsby-starter-personal-blog.git
-```
+Khi bạn đã rành rỏi các trang trên kia rồi thì việc mở mang cho mình một cái gì đó riêng và cá nhân thì đây chính là trang giành cho bạn, qua trang này sẽ giúp bạn biết được cách can thiệp và xử lí sâu hơn vào môi trường Dynamo thông qua hai ngôn ngữ chính là Python và C# . Đến đây hẳn bạn sắp trở thành một con quỷ rồi :D 
+[Website](https://developer.dynamobim.org/) 
 
-Go into the newly created directory and run
+### Dynamo Further 
 
-```text
-gatsby develop
-```
-
-to hot-serve your website on http://localhost:8000 or
-
-```text
-gatsby build
-```
-
-to create static site ready to host (/public).
-
-##### External services
-
-The starter uses external services for some functions: comments, searching, analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal blog.
-
-Create an `.env` file like below in the root folder. Change `...` placeholders with real data.
-
-```text
-GOOGLE_ANALYTICS_ID=...
-ALGOLIA_APP_ID=...
-ALGOLIA_SEARCH_ONLY_API_KEY=...
-ALGOLIA_ADMIN_API_KEY=...
-ALGOLIA_INDEX_NAME=...
-FB_APP_ID=...
-```
+Trang này cũng là tài liệu về lập trình cho Dynamo, tuy nhiên đi sâu hơn vào giải thích chi tiết công việc lập trình hơn, đó chính là những thủ tục, cú pháp, làm như thế nào để tiếp cận với lập trình và can thiệp vào trong môi trường Revit nếu bạn là người mới vào nghề cũng sẽ hình dung và hiểu được.
+[Website](https://dynamopythonprimer.gitbook.io/dynamo-python-primer/) 
