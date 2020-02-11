@@ -4,13 +4,12 @@ title: About
 
 ### BLOG RA ĐỜI NHƯ THẾ NÀO?
 
-Sau khoảng thời gian đọc blog của người khác thì mình cũng suy nghĩ nên một lần chơi lớn xem ai đó có trầm trồ.
-Thế là đú đởn viết một cái blog để thủ dâm tinh thần chứ trình độ mình thì dell dám đứng ra mà viết blog chia sẻ kiến thức gì cho các bạn đâu nha 😚.
+Blog được ra đời với sự phát triển của công nghệ, bản thân mình là người đang đi làm, tìm hiểu được các quy trình công nghệ tự động hóa.Sau khi đã nạp đủ một lượng kiến thức đủ lớn, mình đã quyết định mở ra blog này với mục đích chia sẻ kiến thức thực tế, đồng thời hỗ trợ nhiều vấn đề vướng mắc gặp phải của mọi người chung ngành , người đam mê nghiên cứu trong quá trình làm việc.Nó ra đời đơn giản như thế đó các bác !
 
-### MÌNH LÀ THÈN CỦ CẢI NÀO?
+### MÌNH LÀ AI?
 
-* Tên đầy đủ của mình là Hồ Văn Chương. Nickname hay các account trên mạng đều là duthaho, nghĩa là Đ* Tha Hồ, hay Đ*t Hà Hồ gì cũng được.
-* Tốt nghiệp Đại Học Bách Khoa Đà Nẵng khóa 08 và hiện tại đang là full-stack developer tại [Peddler](https://peddler.com).
-* Thời gian rãnh rỗi thì sẽ viết blog và học thêm một số thứ nữa. Hy vọng lúc đi làm có thể chém gió một chút với bên tuyển dụng.
+* Mình là Hồ Văn Chương, Hiện đang làm trong lĩnh vực BIM, chịu trách nhiệm trong việc tạo ra các công cụ tự động hóa hỗ trợ cho kỹ sư.Hiện mình đang sinh sống và làm việc tại TPHCM, Anh em nào có em gái cũng có thể giới thiệu mình 😝
+* Tốt nghiệp Đại Học Công Nghiệp TPHCM, bản thân mình là dân cơ khí , nhưng cơ may rủi và niềm đam mê từ phổ thông đã thúc dục mình lần sân qua CNTT.
+* Hiện mình đang làm việc tại THE BIM FACTORY thực hiện một số dự án trong và ngoài nước , nếu cần thiết bạn có thể liên hệ với bộ phận HR để được xin một chân vào làm nhé.
 
-#### Chào thân ái và quyết thắng 😝. Đừng quên comment, share và đăng ký để nhận bài viết mới hàng tuần nhé!
+#### Lời cuối cùng, cám ơn các bác đã ghé thăm blog của mình , nếu các bác thấy hay hãy chia sẻ và để lại bình luận bên dưới bài viết nhé !

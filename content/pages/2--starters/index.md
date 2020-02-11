@@ -1,28 +1,24 @@
 ---
-title: Projects
-menuTitle: Projects
+title: Document
+menuTitle: Document
 ---
 
-### JavaScript Quizzes
+### Dynamo Forum
 
-Gồm 1977 câu hỏi trắc nghiệm JavaScript, dùng để ôn luyện từ cơ bản đến nâng cao. Cập nhật liên tục và có giải thích đáp áp.
-[Website](https://quiz.duthaho.com/) | [Github repo](https://github.com/duthaho/js-quiz)
+Trang này mỗi khi mình rảnh là mình lại lên đọc, vừa tham gia giải đáp được những câu hỏi , vừa giúp đỡ người khác và tìm ra ý tưởng thực hiện bài toán cho riêng minh.
+[Website](https://forum.dynamobim.com/) | [Github repo](https://github.com/DynamoDS/Dynamo)
 
-### A bookmark reading list
+### Dynamo Dictionary
 
-Mình đã tổng hợp các bài viết hay, github repo trending hàng ngày và cập nhật lên đây, các bạn chỉ cần bookmark lại và kho tàng kiến thức nằm trong tay bạn.
-[Website](https://bookmark.duthaho.com/) | [Github repo](https://github.com/duthaho/bookmark)
+Trang này bao gồm các ví dụ cơ bản nhất tương tự như một [Dynamo Sanbox](https://dynamobim.org/a-new-way-to-get-dynamo-sandbox/) vậy, tại đây mình có một mớ bài ví dụ mẫu cụ thể và giải thích cho từng node rất chi là sịn sò, anh em nào không hiểu có thể chạy lên đây tra cứu trong những lúc không nhớ mình là ai!
+[Website](https://dictionary.dynamobim.com/)
 
-### JavaScript Learning
+### Dynamo Primer
 
-Nơi để mọi người có thể cùng nhau học tập với các khóa học và bài giảng vô cùng phong phú, được mình tổng hợp rất chi tiết.
-[Website](https://learn.duthaho.com/) | [Github repo](https://github.com/duthaho/learns)
+Một cuốn sách học thuật từ đầu đến cuối cho người mới bắt đầu.Nếu bạn là newbie hay là Pro gì thì cũng nên xem qua cái này hết, giải thích rất chi tiết và mạch lạc, 
+[Website](https://primer.dynamobim.org/) 
 
-### Blood alcohol calculator
+### Dynamo Developer
 
-Công cụ dùng cho các bợm nhậu, dùng để đo nồng độ cồn trong máu, mình đã thử 3 lần và tỷ lệ chính xác lên đến 96,69%.
-[Website](https://nongdocon.duthaho.com/) | [Github repo](https://github.com/duthaho/nongdocon)
-
-### JavaScript Discussion
-
-Sau nhiều bài học căng thẳng thì các bạn có thể cùng nhau chia sẽ kiến thức lập trình cũng như kỹ năng cua gái ở đây. [Website](http://htdiscuss.surge.sh/) | [Github repo](https://github.com/duthaho/discuss)
+Khi bạn đã rành rỏi các trang trên kia rồi thì việc mở mang cho mình một cái gì đó riêng và cá nhân thì đây chính là trang giành cho bạn, qua trang này sẽ giúp bạn biết được cách can thiệp và xử lí sâu hơn vào môi trường Dynamo thông qua hai ngôn ngữ chính là Python và C# . 
+[Website](https://developer.dynamobim.org/) 
