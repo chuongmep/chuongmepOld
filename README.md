@@ -38,3 +38,8 @@ Trang này giới thiệu cho mình cách viết mã can thiệp vào revit vớ
 
 Đây là cách lập trình Add-in mới được tác giả [Ehsan Iran-Nejad](https://github.com/eirannejad) Giới thiệu.Với tài liệu này, mình sẽ học được cách tiếp cận mã Python, tạo môi trường và các công cụ nút chọn tương tự như ta viết mã với ngôn ngữ C#, tuy nhiên nó đơn giản hơn và cách viết, cách chạy cũng khác hơn hẳn, tương lai đây là một dự án rất tiềm năng.
 [Website](https://pyrevit1.readthedocs.io/en/latest/index.html) 
+
+### revitapidocs
+
+Trang tra cứu thư viện giúp bạn tra cứu các method với Revit API trên ngôn ngữ C#, VBA , Python.Ở đây mình có cả hai trang cho các bạn tham khảo 
+[RevitAPisdocs](https://www.revitapidocs.com/) [APIDocs](https://apidocs.co/apps/)
