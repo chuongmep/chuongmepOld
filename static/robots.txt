@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://duthaho.com/sitemap.xml
