@@ -1,5 +1,5 @@
 ---
 title: author
 ---
-
-Mình là một thằng đầu to, trán hói, chuẩn loser vozer, cao chỉ 1m55 nhưng nặng đến gần 60kg :laughing:. Có tập Gym nên bụng 6 múi và nhiều gái khen đẹp zai. Mục tiêu của blog này chủ yếu là để dành đọc lại lúc cần, cũng để cho mọi người vào đọc giết thời gian cho vui :kissing:.
+### Hồ Văn Chương
+Một người thích đam mê nghiên cứu những công nghệ mới, các công cụ tự động hóa, với mong muốn chia sẻ và giúp đỡ mọi người có nhiều niềm vui trong công việc và cuộc sống hơn.Một câu nói mình rất tâm đắc đó là "Người khác làm được, bạn cũng làm được"

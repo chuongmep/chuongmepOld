@@ -1,31 +1,31 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "duthaho's blog", // <title>
-  shortSiteTitle: "duthaho's blog", // <title> ending for posts and pages
-  siteDescription: "duthaho's blog. A fullstack developer at peddler.com",
-  siteUrl: "https://duthaho.com",
+  siteTitle: "Hồ Văn Chương", // <title>
+  shortSiteTitle: "Hồ Văn Chương", // <title> ending for posts and pages
+  siteDescription: "Hồ Văn Chương. A MEP Engineer",
+  siteUrl: "https://chuongmep.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "duthaho",
-  authorTwitterAccount: "duthaho",
+  authorName: "HoVanChuong",
+  authorTwitterAccount: "HoVanChuong",
   // info
-  infoTitle: "duthaho",
-  infoTitleNote: "duthaho's blog",
+  infoTitle: "HoVanChuong",
+  infoTitleNote: "Hồ Văn Chương",
   // manifest.json
-  manifestName: "duthaho's blog",
-  manifestShortName: "duthaho", // max 12 characters
+  manifestName: "Hồ Văn Chương",
+  manifestShortName: "HoVanChuong", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "hopit.bkdn@gmail.com",
+  contactEmail: "Chuongpqvn@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/duthaho" },
-    { name: "facebook", url: "https://facebook.com/DuongThanhHop" }
+    { name: "github", url: "https://github.com/chuong9x" },
+    { name: "facebook", url: "https://facebook.com/CHUONGMEP" }
   ]
 };

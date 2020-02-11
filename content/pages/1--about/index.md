@@ -9,7 +9,6 @@ Blog được ra đời với sự phát triển của công nghệ, bản thân
 ### MÌNH LÀ AI?
 
 * Mình là Hồ Văn Chương, Hiện đang làm trong lĩnh vực BIM, chịu trách nhiệm trong việc tạo ra các công cụ tự động hóa hỗ trợ cho kỹ sư.Hiện mình đang sinh sống và làm việc tại TPHCM, Anh em nào có em gái cũng có thể giới thiệu mình 😝
-* Tốt nghiệp Đại Học Công Nghiệp TPHCM, bản thân mình là dân cơ khí , nhưng cơ may rủi và niềm đam mê từ phổ thông đã thúc dục mình lần sân qua CNTT.
 * Hiện mình đang làm việc tại THE BIM FACTORY thực hiện một số dự án trong và ngoài nước , nếu cần thiết bạn có thể liên hệ với bộ phận HR để được xin một chân vào làm nhé.
 
 #### Lời cuối cùng, cám ơn các bác đã ghé thăm blog của mình , nếu các bác thấy hay hãy chia sẻ và để lại bình luận bên dưới bài viết nhé !
