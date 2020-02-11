@@ -9,7 +9,7 @@ Thế là đú đởn viết một cái blog để thủ dâm tinh thần chứ 
 
 ### MÌNH LÀ THÈN CỦ CẢI NÀO?
 
-* Tên đầy đủ của mình là DƯơng THAnh HỢp. Nickname hay các account trên mạng đều là duthaho, nghĩa là Đ* Tha Hồ, hay Đ*t Hà Hồ gì cũng được.
+* Tên đầy đủ của mình là Hồ Văn Chương. Nickname hay các account trên mạng đều là duthaho, nghĩa là Đ* Tha Hồ, hay Đ*t Hà Hồ gì cũng được.
 * Tốt nghiệp Đại Học Bách Khoa Đà Nẵng khóa 08 và hiện tại đang là full-stack developer tại [Peddler](https://peddler.com).
 * Thời gian rãnh rỗi thì sẽ viết blog và học thêm một số thứ nữa. Hy vọng lúc đi làm có thể chém gió một chút với bên tuyển dụng.
 
