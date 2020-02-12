@@ -1,3 +1,7 @@
+---
+title: Document
+menuTitle: Document
+---
 
 ### Dynamo Forum
 
@@ -29,6 +33,11 @@ Khi bạn đã rành rỏi các trang trên kia rồi thì việc mở mang cho 
 Trang này cũng là tài liệu về lập trình cho Dynamo, tuy nhiên đi sâu hơn vào giải thích chi tiết công việc lập trình hơn, đó chính là những thủ tục, cú pháp, làm như thế nào để tiếp cận với lập trình và can thiệp vào trong môi trường Revit nếu bạn là người mới vào nghề cũng sẽ hình dung và hiểu được.
 [Website](https://dynamopythonprimer.gitbook.io/dynamo-python-primer/) 
 
+### Python Basic
+Trang này cung cấp khá đầy đủ và giải thích cho mình cách tiếp cận và học ngông ngữ **Python** một cách khoa học và đi theo từng chủ đề, nếu bạn có hứng thú với viết mã bằng Python hãy truy cập đường link bên dưới
+[Website](https://python.swaroopch.com/basics.html)
+
+
 ### RevitPythonShell
 
 Trang này giới thiệu cho mình cách viết mã can thiệp vào revit với Python, ở đây mình sẽ hiểu được những khái niệm cơ bản của python và triển khai như thế nào trong revit.Đây là một cách viết gần hơn với ngôn ngữ mã nguồn mở rất phát triển.
@@ -41,5 +50,6 @@ Trang này giới thiệu cho mình cách viết mã can thiệp vào revit vớ
 
 ### revitapidocs
 
-Trang tra cứu thư viện giúp bạn tra cứu các method với Revit API trên ngôn ngữ C#, VBA , Python.Ở đây mình có cả hai trang cho các bạn tham khảo 
+Trang tra cứu thư viện giúp bạn tra cứu các method với Revit API trên ngôn ngữ C#, VBA , Python.Ở đây mình có cả hai trang cho các bạn tham khảo.
+
 [RevitAPisdocs](https://www.revitapidocs.com/) [APIDocs](https://apidocs.co/apps/)
