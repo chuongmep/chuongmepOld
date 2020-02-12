@@ -2,7 +2,7 @@
 title: Document
 menuTitle: Document
 ---
-
+![](https://github.com/chuong9x/DataBlog/raw/master/Fighting/preview.jpg?raw=true)
 ### Dynamo Builds
 Trang này tải các gói cài đặt và các gói Dynamo Core được phát triển thường xuyên, mình có thể ghé thăm để tải về cài đặt hoặc trải nghiệm các phiên bản mới nhất của Dynamo.
 [Website](https://dynamobuilds.com/)
