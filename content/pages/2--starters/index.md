@@ -3,9 +3,13 @@ title: Document
 menuTitle: Document
 ---
 
+### Dynamo Builds
+Trang này tải các gói cài đặt và các gói Dynamo Core được phát triển thường xuyên, mình có thể ghé thăm để tải về cài đặt hoặc trải nghiệm các phiên bản mới nhất của Dynamo.
+[Website](https://dynamobuilds.com/)
+
 ### Dynamo Forum
 
-Trang này mỗi khi mình rảnh là mình lại lên đọc, vừa tham gia giải đáp được những câu hỏi , vừa giúp đỡ người khác và tìm ra ý tưởng thực hiện bài toán cho riêng minh.
+Trang này mỗi khi mình rảnh là mình lại lên đọc, vừa tham gia giải đáp được những câu hỏi , vừa giúp đỡ người khác và tìm ra ý tưởng thực hiện bài toán cho riêng mình.
 [Website](https://forum.dynamobim.com/) | [Github repo](https://github.com/DynamoDS/Dynamo)
 
 ### Dynamo Dictionary
