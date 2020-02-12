@@ -36,6 +36,7 @@ Hoàn thiện lại node của mình  theo ý muốn và kết hợp với node 
 ![](https://github.com/chuong9x/DataBlog/blob/master/BreakStringDynamo/String.Separator02.png?raw=true)
 
 Nếu các bước trên bạn thực hiện vẫn chưa ra kết quả như mong muốn, bạn có thể tải gói **Dyn** mình đã gửi lên tham khảo [Tại đây](https://github.com/chuong9x/DataBlog/blob/master/BreakStringDynamo/String.Separator.dyn)
+
 ---
 
 #### Tổng kết
