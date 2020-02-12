@@ -1,6 +1,6 @@
 ---
-title: "Get All View In Dynamo"
-subTitle: "Lấy về tất cả các View trong Dynamo"
+title: "How to split string in Dynamo"
+subTitle: "Làm thế nào  để ngắt một chuối trong Dynamo"
 category: dynamo
 cover: cover.png
 ---
@@ -9,66 +9,34 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ---
 
-Các bác sử dụng Python Scripts này để lấy về tất cả các View có trong Revit nhé ! 
+Hôm trước mình có viết một [bài](https://chuongmep.com/break-string-in-dynamo-list-with-characters/) ngăn cách giữa các phần tử danh sách với dấu phẩy, hôm nay mình sẽ tiếp tục làm công việc lấy phần tử từ bên trong một chuỗi **List** ra.Ví dụ , trong danh sách có các phần từ `Level 01 `thì mình chỉ muốn lấy `01` ra để  sử dụng tiếp mà thôi, vậy thì mình sẽ bắt tay vào làm thôi.
 
-### Bước 1 : Khai báo thư viện
-```
-import clr
-clr.AddReference('ProtoGeometry')
-from Autodesk.DesignScript.Geometry import *
-
-# Import DocumentManager and TransactionManager
-clr.AddReference("RevitServices")
-import RevitServices
-from RevitServices.Persistence import DocumentManager
-from RevitServices.Transactions import TransactionManager
-
-# Import RevitAPI
-clr.AddReference("RevitAPI")
-import Autodesk
-from Autodesk.Revit.DB import *
-
-# Import ToDSType(bool) extension method
-clr.AddReference("RevitNodes")
-import Revit
-clr.ImportExtensions(Revit.Elements)
-```
-### Bước 2 : Khai báo giá trị truyền vào để làm mới lại danh sách view
-```
-Refresh = IN[0]
-```
-### Bước 3 : Lấy về Tất cả các View có trong mô hình với [FilteredElementCollector](https://www.revitapidocs.com/2015/263cf06b-98be-6f91-c4da-fb47d01688f3.htm)
-```
-doc = DocumentManager.Instance.CurrentDBDocument
-collector = FilteredElementCollector(doc)
-views = collector.OfClass(View).OfCategory(BuiltInCategory.OST_Views).ToElements()
-```
-### Bước 4 : Cho List vào vòng lặp và lấy ra từng view một với điều kiện
+### Cách 1 : Sử dụng Python Scripts
+#### Tạo một **CodeBlock** hoặc một **Python Script** và dán mã này vào
 
 ```
-OUT = list(view.ToDSType(True) for view in views if not view.IsTemplate)
+levels = IN[0]
+levelnew = []
+for level in levels :
+	levelnew.append(level[-2::])
+#Assign your output to the OUT variable.
+OUT = levelnew
 ```
-Cuối cùng mình sẽ có một Scripts hoàn chỉnh như thế này,Phía trước truyền vào [Boolean](https://primer.dynamobim.org/04_The-Building-Blocks-of-Programs/4-3_logic.html) chính là Làm mới hoặc cập nhật lại :
-![](https://github.com/chuong9x/DataBlog/blob/master/GetAllViewInDynamo/GetAllView.png?raw=true)
+#### Sau đó ta sẽ nhìn thấy kết quả được lấy ra là hai kí tự phía sau chuỗi
+![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString01.png?raw=true)
+#### Tuy nhiên vấn đề này chỉ giải quyết cho hai kí tự trở xuống thôi , nếu muốn 3 kí tự phía sau khoảng trống thì không lấy được.Như vậy một là mình phải cải tiến Scripts, hai là mình sẽ sử dụng cách hai bên dưới
+### Cách 2 : Sử dụng Node `String.Split` kết họp với `List.GetItemAtIndex`
+![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString02.png?raw=true)
 
-### Mở rộng
+Lưu ý : Ta để Lacing cho Node `List.GetItemAtIndex` để nhận hết list nhé.
+### Kết quả : 
+![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/Screenshot_1.png?raw=true)
 
-Ngoài những cách làm bên trên: 
-
-Mình có thể dùng một gói của [archi-lab](https://archi-lab.net/)
-
-![](https://github.com/chuong9x/DataBlog/blob/master/GetAllViewInDynamo/906df8d59dddc2e7ff75b6f0c88e70ba47cb5312.png?raw=true)
-
-Mình có thể dùng **GetViewsByType** của gói [Modelical](https://www.modelical.com/en/modelical-package-for-dynamo/).Tiền thân của gói này là từ **archi-lab** nhưng không được để lại ở những phiên bản đời cao.
-
-![](https://github.com/chuong9x/DataBlog/blob/master/GetAllViewInDynamo/GetAllVieByType.png?raw=true)
-
-
+Như vậy mình đã có thể giải quyết được cho cả vấn đề có bao nhiêu kí tự phía sau khoảng cách đi chăng nữa.
 #### Tổng kết
-Vậy là mình đã kể cho các bác nghe xong hết câu chuyện rồi đó , hôm nào rảnh rỗi lại tiếp tục kể cho các bác nghe về một diễn biến chiến trường khác, cám ơn các bác đã ghé thăm blog !
+Vậy là mình đã kể cho các bác nghe xong hết câu chuyện  nữa rồi đó , cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
 
 ### Tham khảo :
 
-[Dynamo Forum](https://forum.dynamobim.com/t/get-all-views-node/4494/5)
+[Dynamo Primer](https://primer.dynamobim.org/04_The-Building-Blocks-of-Programs/4-4_strings.html)
 
-[Dynamo Github](https://primer.dynamobim.org/10_Custom-Nodes/10-6_Python-Templates.html)
