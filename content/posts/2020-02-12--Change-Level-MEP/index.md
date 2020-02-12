@@ -99,7 +99,7 @@ OUT = listout
 
 ![](https://github.com/chuong9x/DataBlog/blob/master/Change%20Level%20MEP/All%20Element%20not%20Host.png?raw=true)
 
-Vậy là ngon cơm rồi, giờ mình sẽ lấy nốt luôn cái đầu vào Level từ cái **view** đã chọn thông qua **GetParameterValueByName** với tên là `Associated Level` là đọc được ngay cái tên Level và dùng **GetLevelByName** của Package **Archilab** 
+Vậy là ngon cơm rồi, giờ mình sẽ lấy nốt luôn cái đầu vào Level từ cái **view** đã chọn thông qua **GetParameterValueByName** với tên là `Associated Level` là đọc được ngay cái tên Level và dùng **GetLevelByName** của Package [Archilab](https://archi-lab.net/category/dynamo/) 
 Xâu chuỗi nãy giờ mình làm lại là đã giải quyết xong bài toán rồi.Hình ảnh cuối cùng mình để ở [đây](https://github.com/chuong9x/DataBlog/blob/master/Change%20Level%20MEP/Change%20Level%20MEP.png?raw=true) cho bác nào nối chưa được.
 
 ### Bước 3 : Run
@@ -116,9 +116,7 @@ Addin này làm được những gì:
 - Bao quát trường hợp, sử dụng cho cả Revit 2020 với sự thay đổi cấu kiện.
 - Tốc độ xử lý nhanh gọn hơn.
 
-Đây là cách sử dụng Tool Demo cho em nó : 
-
-[![How to change level MEP](https://github.com/chuong9x/DataBlog/blob/master/Fighting/preview.jpg?raw=true)](https://www.youtube.com/watch?v=SPoOvjVGz5g "Click to Watch!")
+Đây là cách sử dụng Tool Demo cho em nó : [Click Here](https://www.youtube.com/watch?v=SPoOvjVGz5g)
 
 #### Tổng kết
 Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
