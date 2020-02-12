@@ -25,7 +25,7 @@ OUT = levelnew
 #### Sau đó ta sẽ nhìn thấy kết quả được lấy ra là hai kí tự phía sau chuỗi
 ![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString01.png?raw=true)
 #### Tuy nhiên vấn đề này chỉ giải quyết cho hai kí tự trở xuống thôi , nếu muốn 3 kí tự phía sau khoảng trống thì không lấy được.Như vậy một là mình phải cải tiến Scripts, hai là mình sẽ sử dụng cách hai bên dưới
-Mình sẽ cải tiến Python Scripts với cú pháp Sau :
+Mình sẽ cải tiến Python Scripts với cú pháp Sau,3 hay bao nhiêu kí tự phía sau cũng sẽ lấy được hết. split()[1] chính là lấy từng phần tử trong đoạn list ấy, các bác cứ hiểu là ` chữ Hồ Văn Chương có 3 chữ thì thì chữ **Văn** sẽ là phần tử thứ 1`
 ```
 #Author HoangThanhLong
 OUT = [level.split()[1] for level in IN[0]]
@@ -45,3 +45,4 @@ Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồ
 
 [Dynamo Primer](https://primer.dynamobim.org/04_The-Building-Blocks-of-Programs/4-4_strings.html)
 
+[Hoàng Thanh Long](https://github.com/htlcnn)
