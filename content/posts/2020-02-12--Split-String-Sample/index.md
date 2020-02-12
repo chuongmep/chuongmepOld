@@ -25,6 +25,11 @@ OUT = levelnew
 #### Sau đó ta sẽ nhìn thấy kết quả được lấy ra là hai kí tự phía sau chuỗi
 ![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString01.png?raw=true)
 #### Tuy nhiên vấn đề này chỉ giải quyết cho hai kí tự trở xuống thôi , nếu muốn 3 kí tự phía sau khoảng trống thì không lấy được.Như vậy một là mình phải cải tiến Scripts, hai là mình sẽ sử dụng cách hai bên dưới
+Mình sẽ cải tiến Python Scripts với cú pháp Sau :
+```
+#Author HoangThanhLong
+OUT = [level.split()[1] for level in IN[0]]
+```
 ### Cách 2 : Sử dụng Node `String.Split` kết hp với `List.GetItemAtIndex`
 ![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString02.png?raw=true)
 
@@ -34,7 +39,7 @@ Lưu ý : Ta để Lacing cho Node `List.GetItemAtIndex` để nhận hết list
 
 Như vậy mình đã có thể giải quyết được cho cả vấn đề có bao nhiêu kí tự phía sau khoảng cách đi chăng nữa.
 #### Tổng kết
-Vậy là mình đã kể cho các bác nghe xong hết câu chuyện  nữa rồi đó , cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
+Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
 
 ### Tham khảo :
 
