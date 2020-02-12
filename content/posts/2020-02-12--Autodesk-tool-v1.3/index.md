@@ -1,6 +1,6 @@
 ---
 title: "Autodesk Tool V1.3"
-subTitle: "Sửa lỗi thông báo yêu cầu bản quyền autodesk"
+subTitle: "Sửa lỗi thông báo yêu cầu bản quyền Autodesk"
 category: tools
 cover: cover.png
 ---
