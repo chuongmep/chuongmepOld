@@ -1,6 +1,6 @@
 ---
 title: "How to split string in Dynamo"
-subTitle: "Làm thế nào  để ngắt một chuối trong Dynamo"
+subTitle: "Làm thế nào  để ngắt một chuỗi trong Dynamo"
 category: dynamo
 cover: cover.png
 ---
@@ -25,7 +25,7 @@ OUT = levelnew
 #### Sau đó ta sẽ nhìn thấy kết quả được lấy ra là hai kí tự phía sau chuỗi
 ![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString01.png?raw=true)
 #### Tuy nhiên vấn đề này chỉ giải quyết cho hai kí tự trở xuống thôi , nếu muốn 3 kí tự phía sau khoảng trống thì không lấy được.Như vậy một là mình phải cải tiến Scripts, hai là mình sẽ sử dụng cách hai bên dưới
-### Cách 2 : Sử dụng Node `String.Split` kết họp với `List.GetItemAtIndex`
+### Cách 2 : Sử dụng Node `String.Split` kết hp với `List.GetItemAtIndex`
 ![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString02.png?raw=true)
 
 Lưu ý : Ta để Lacing cho Node `List.GetItemAtIndex` để nhận hết list nhé.
