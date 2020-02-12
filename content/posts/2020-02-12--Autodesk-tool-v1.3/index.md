@@ -31,6 +31,7 @@ Không dừng lại ở đó , mình và thằng em trong phòng quyết định
 - Kill All : Xoá sạch mọi nội dung liên quan đến key cài đặt, bản quyền, lỗi kích hoạt.
 
 Giao diện tool :
+
 ![](https://github.com/chuong9x/DataBlog/blob/master/AutodeskToolsV1.3/68285419_10219713020122874_6470352159656378368_n.jpg?raw=true)
 
 Link tải về mình để ở [Đây](http://www.mediafire.com/file/at5tjk5qjcjavf8/Autodesk_Tools_V1.3.exe/file), bác nào bị thì có thể bế e nó về chạy .
