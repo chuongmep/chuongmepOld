@@ -22,6 +22,7 @@ Hiệu suất thì mình không bàn ở bản 2.1 trở lên rồi, thuật to�
 Nói đi cũng phải nói lại , vấn đề lớn nhất của **Dynamo** vẫn chưa giải quyết được là ở [Geometry](https://primer.dynamobim.org/05_Geometry-for-Computational-Design/5-1_geometry-overview.html), Nếu để **Geometry** sinh ra quá nhiều Solid rồi đem xử lí các điểm giao đối tượng nhiều nhiều một chút là tắt nắng ngay, có bác chỉ dùng hàm [Dispose](https://www.revitapidocs.com/2015/4c6eef15-6691-4675-600c-7a12a09738f9.htm) nhưng mình thấy vẫn văng như thường.
 
 Ngoài ra còn có rất nhiều tính năng hay ho và tải tiến các **Node** mà mình không đề cập trong bài viết này, các bác có thể xem thêm tại bên dưới link tham khảo để biết chi tiết hơn.
+
 ---
 
 #### Tổng kết
