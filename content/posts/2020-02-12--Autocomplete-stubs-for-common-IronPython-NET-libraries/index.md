@@ -2,7 +2,7 @@
 title: "Autocomplete stubs for common IronPython/.NET libraries"
 subTitle: "Tự động hoàn tất mã cho các thư viện IronPython /.NET"
 category: python
-cover: cover.ico
+cover: cover.png
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄
@@ -16,7 +16,9 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 Đơn giản là khi mình **import** thư viện Common Language Runtime (clr) vào thì các công cụ IDE thông thường không thể nào truy cập được các modul bên trong nó như khi ta add reference xong import modul là có gợi ý mã tự động luôn trong Visual Studio đâu, cũng chính vì lí do đó và một phần lập trình viết nhiều sẽ gây làm biến, làm biến rồi thì phát sinh ra tự động hoàn thành thôi, và thế là công cụ ra đời 😁, mình chém gió thế thôi chứ biết đâu ý của tác giả cũng như mình thì sao ! 
 
-Vậy thì công việc của mình chỉ là cần kéo gói này về trên **github** về và sử dụng thôi, mình thì thường sử dụng [Visual Studio Code](https://code.visualstudio.com/) quen rồi nên chiến luôn.
+Dùng cái này cũng tiện cho mình gõ chữ vì các method thì có tên viết hoa tên không hoặc tên dài lòn thòn gõ đi gõ lại cũng bấy nhiêu mà hiệu suất thì lại không nhanh bằng **AutoComplete**.
+
+Vậy thì công việc của mình chỉ là cần kéo gói này về trên **github** về và sử dụng thôi, mình thì thường sử dụng [Visual Studio Code](https://code.visualstudio.com/) quen rồi nên chiến luôn.Mình khuyên các bác cũng nên sử dụng IDE này vì cũng sịn phết, tiện tích quá trời mà lại của cha Microsoft nữa nên không lo vụ bỏ con giữa chợ đâu 😍
 
 ### Cài đặt IronPython Stubs
 
