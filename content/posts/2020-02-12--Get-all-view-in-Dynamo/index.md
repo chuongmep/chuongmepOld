@@ -48,7 +48,7 @@ views = collector.OfClass(View).OfCategory(BuiltInCategory.OST_Views).ToElements
 ```
 OUT = list(view.ToDSType(True) for view in views if not view.IsTemplate)
 ```
-Cuối cùng mình sẽ có một Scripts hoàn chỉnh như thế này,Phía trước truyền vào Boolean chính là Làm mới hoặc cập nhật lại :
+Cuối cùng mình sẽ có một Scripts hoàn chỉnh như thế này,Phía trước truyền vào [Boolean](https://primer.dynamobim.org/04_The-Building-Blocks-of-Programs/4-3_logic.html) chính là Làm mới hoặc cập nhật lại :
 ![](https://github.com/chuong9x/DataBlog/blob/master/GetAllViewInDynamo/GetAllView.png?raw=true)
 
 ### Mở rộng
