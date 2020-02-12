@@ -30,7 +30,7 @@ Mình sẽ cải tiến Python Scripts với cú pháp Sau :
 #Author HoangThanhLong
 OUT = [level.split()[1] for level in IN[0]]
 ```
-### Cách 2 : Sử dụng Node `String.Split` kết hp với `List.GetItemAtIndex`
+### Cách 2 : Sử dụng Node `String.Split` kết hợp với `List.GetItemAtIndex`
 ![](https://github.com/chuong9x/DataBlog/blob/master/splitstring/SplitString02.png?raw=true)
 
 Lưu ý : Ta để Lacing cho Node `List.GetItemAtIndex` để nhận hết list nhé.
