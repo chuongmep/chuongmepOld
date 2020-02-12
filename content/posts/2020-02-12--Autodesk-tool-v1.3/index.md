@@ -10,11 +10,11 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 ---
 ### Tại sao lại có tool này ?
 
-Vào một ngày đẹp trời, tự nhiên thánh thần thiên địa đang làm ngon lành đầu đâu nổi lên cái thông báo sài bản quyền lậu. 
+Vào một ngày đẹp trời, tự nhiên thánh thần thiên địa đang làm ngon lành đâu nổi lên cái thông báo sài bản quyền lậu khá dị hợm. 
 
 ![](https://github.com/chuong9x/DataBlog/blob/master/AutodeskToolsV1.3/68340972_10219632495829817_9042702193144102912_n-768x563.jpg?raw=true)
 
-Ủa ủa cái gì đây trời.Và cuối cùng là gỡ cái key rồi nhét lại cũng không được, làm tốn cả buổi mò cua bắt ốc làm đi làm lại , cuối cùng phát hiện ra hệ thống thăm dò key của Autodesk.Thôi code vài dòng gỡ cho đỡ tức 
+Ủa ủa cái gì đây trời.Và cuối cùng là gỡ cái key rồi nhét lại cũng không được, làm tốn cả buổi mò cua bắt ốc làm đi làm lại , cuối cùng phát hiện ra hệ thống thăm dò key của Autodesk.Thôi code vài dòng gỡ cho đỡ tức.😁
 
 ```
 import os
