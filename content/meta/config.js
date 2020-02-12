@@ -3,7 +3,7 @@ const colors = require("../../src/styles/colors");
 module.exports = {
   siteTitle: "Hồ Văn Chương", // <title>
   shortSiteTitle: "Hồ Văn Chương", // <title> ending for posts and pages
-  siteDescription: "Hồ Văn Chương. A MEP Engineer",
+  siteDescription: "MEP Engineer",
   siteUrl: "https://chuongmep.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
