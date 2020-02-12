@@ -39,6 +39,7 @@ OUT = [FilteredElementCollector(doc,v.Id).ToElements() for v in views];
 
 ```
 Ngon lành cành đào, giờ trước tiên tìm cái nào có parameter có tên là `Schedule Level` lọc ra và loại mấy cái biến null rác đi, giải quyết gọn gàng cho phân tích 01 cái đã rồi mình tính tiếp.
+
 ![](https://github.com/chuong9x/DataBlog/blob/master/Change%20Level%20MEP/Filter.png?raw=true)
 
 Giờ mình sẽ giải quyết cho khúc lằng nhằng kia, đối tượng nào là co tê cút thì cao độ sẽ dùng thuật toán thay đổi đi cho bằng lại với cái cao độ gốc , cái nào là ống ác thì để nguyên lại còn không thích thì cứ cộng trừ cũng chả sao.Mình có một đoạn Scripts để giải quyết gọn gàng cho vấn đề trên như sau :
