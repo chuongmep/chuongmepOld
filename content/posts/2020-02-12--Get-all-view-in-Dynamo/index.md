@@ -1,6 +1,6 @@
 ---
 title: "Get All View In Dynamo"
-subTitle: "Lấy về tất cả các View trong Dynamo"
+subTitle: "Làm thế nào để lấy các View trong Dynamo"
 category: dynamo
 cover: cover.png
 ---
