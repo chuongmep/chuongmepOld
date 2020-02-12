@@ -22,7 +22,7 @@ Vậy thì công việc của mình chỉ là cần kéo gói này về trên **
 
 ### Cài đặt IronPython Stubs
 
-Đầu tiên là mình clone cái kho **github** chứa cái đó đã nó được tìm thấy ở [đây](https://github.com/gtalarico/ironpython-stubs/archive/master.zip) nếu các bác muốn click phát tải ngay.Nếu là người sử dụng git chuyên clone về rồi thì đi đến thẳng kho Github [này](https://github.com/gtalarico/ironpython-stubs) rồi kéo về luôn.Giành cho bác nào chưa biết sài git thì ghé chỗ [này](https://rogerdudler.github.io/git-guide/index.vi.html) coi sơ qua cũng khó là mấy, vòng vòng cũng chỉ là vài lệnh cơ bản.
+Đầu tiên là mình clone cái kho **github** chứa cái đó đã nó được tìm thấy ở [đây](https://github.com/gtalarico/ironpython-stubs/archive/master.zip) nếu các bác muốn click phát tải ngay.Nếu là người sử dụng git chuyên clone về rồi thì đi đến thẳng kho Github [này](https://github.com/gtalarico/ironpython-stubs) rồi kéo về luôn.Giành cho bác nào chưa biết sài git thì ghé chỗ [này](https://rogerdudler.github.io/git-guide/index.vi.html) ngó sơ qua cũng không khó là mấy, vòng vòng cũng chỉ là vài lệnh cơ bản.
 
 Kéo về được rồi thì làm sao nữa, tất nhiên là trên máy các bác phải có IDE rồi, như trên đầu mình đã nói những IDE nào sẽ được hỗ trợ, các bác lựa cho mình một cái thích thú rồi bế em nó về máy thôi.Cài đặt với vài cái next next là xong.
 
