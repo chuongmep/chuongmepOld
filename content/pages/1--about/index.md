@@ -4,7 +4,7 @@ title: About
 
 ### BLOG RA ĐỜI NHƯ THẾ NÀO?
 
-Blog được ra đời với sự phát triển của công nghệ 4.0, bản thân mình là người đang đi làm, tìm hiểu được các quy trình công nghệ tự động hóa.Mình đã quyết định mở ra blog này với mục đích chia sẻ kiến thức thực tế, đồng thời hỗ trợ nhiều vấn đề vướng mắc gặp phải của mọi người chung ngành , người đam mê nghiên cứu trong cùng lĩnh vực với mình,đóng góp một phần vào lĩnh vực **BIM**.
+Blog được ra đời với sự phát triển của công nghệ vùn vụt, bản thân mình là người đang đi làm, tìm hiểu được các quy trình công nghệ tự động hóa.Mình đã quyết định mở ra blog này với mục đích chia sẻ kiến thức thực tế, đồng thời hỗ trợ nhiều vấn đề vướng mắc gặp phải của mọi người chung ngành. Những người đam mê nghiên cứu trong cùng lĩnh vực với mình thì có thể ghé thăm blog để đọc bài, xem như một cái gì đó để đời lại cho các bạn đi phía sau mình.
 
 Nó ra đời đơn giản như thế đó các bác !
 
