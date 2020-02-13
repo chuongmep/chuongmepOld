@@ -243,3 +243,5 @@ Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồ
 [parametricmonkey](https://parametricmonkey.com/2016/03/09/get-unused-filters/)
 
 [archi-lab.net](https://archi-lab.net/delete-imported-line-patterns-using-dynamo/)
+
+[solamour](https://twitter.com/solamour)
