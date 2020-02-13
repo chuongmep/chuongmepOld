@@ -72,12 +72,7 @@ Cuối cùng ta sẽ có một cái gì đó như này với **Path** đầu và
             var uiapp = commandData.Application;
             var uidoc = uiapp.ActiveUIDocument;
             var app = uiapp.Application;
-            var doc = uidoc.Document;
-
-            //code
-
-
-            // Prepare a dummy string, thos would appear in the dialog
+            var doc = uidoc.Document
             var dummyFileName = "IsoMetric.PCF";
 
             var sf = new SaveFileDialog();
@@ -88,8 +83,6 @@ Cuối cùng ta sẽ có một cái gì đó như này với **Path** đầu và
             {
                 if (sf.ShowDialog() == DialogResult.OK)
                 {
-                    // Now here's our save folder
-
                     ICollection<ElementId> selection = uidoc.Selection.GetElementIds();
                     var savePath = sf.FileName;
                     FabricationUtils.ExportToPCF(doc, selection.ToList(), savePath);
@@ -103,8 +96,6 @@ Cuối cùng ta sẽ có một cái gì đó như này với **Path** đầu và
                 //return Result.Cancelled;
                 throw new Exception(e.Message);
             }
-
-
             return Result.Succeeded;
         }
     }
