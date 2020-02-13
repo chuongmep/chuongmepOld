@@ -60,7 +60,7 @@ Cuối cùng ta sẽ có một cái gì đó như này với **Path** đầu và
 
 
 
-### Cách 2 : Sử dụng Revit API Viết mã với C#
+### Cách 2 : Sử dụng Revit API Viết mã với `C#`
 
 ```
     [Transaction(TransactionMode.Manual)]
