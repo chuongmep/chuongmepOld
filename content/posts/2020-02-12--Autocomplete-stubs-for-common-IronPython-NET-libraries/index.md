@@ -24,9 +24,15 @@ Vậy thì công việc của mình chỉ là cần kéo gói này về trên **
 
 Đầu tiên là mình clone cái kho **github** chứa cái đó đã nó được tìm thấy ở <a href="(https://github.com/gtalarico/ironpython-stubs/archive/master.zip" target="_blank">đây</a> nếu các bác muốn click phát tải ngay.Nếu là người sử dụng git chuyên clone về rồi thì đi đến thẳng kho Github <a href="https://github.com/gtalarico/ironpython-stubs" target="_blank">này</a> rồi kéo về luôn.Giành cho bác nào chưa biết sài git thì ghé chỗ [này](https://rogerdudler.github.io/git-guide/index.vi.html) ngó sơ qua cũng không khó là mấy, vòng vòng cũng chỉ là vài lệnh cơ bản.
 
-Kéo về được rồi thì làm sao nữa, tất nhiên là trên máy các bác phải có IDE rồi, như trên đầu mình đã nói những IDE nào sẽ được hỗ trợ, các bác lựa cho mình một cái thích thú rồi bế em nó về máy thôi.Cài đặt với vài cái next next là xong.
+![](pic/CloneAutoStub.png)
 
-Tiếp theo là các bác vào <a href="https://github.com/gtalarico/ironpython-stubs/wiki" target="_blank">đây</a>  , tích vào <a href="https://www.codehub.vn/IDE-La-Gi" target="_blank">IDE</a>  nào mình đã cài và xem hướng dẫn, ở bài này mình sẽ hướng dẫn cho **Visual Sudio Code** thôi nhé vì mình đang sài mỗi em nó.Các bác chỉ việc gõ tổ hợp phím` Crt+Shift+P `vào phần **OpenSetting**(Json) dán thêm đoạn này vào : 
+Kéo về được rồi thì làm sao nữa, tất nhiên là trên máy các bác phải có IDE rồi, như trên đầu mình đã nói những IDE nào sẽ được hỗ trợ, các bác lựa cho mình một IDE thích thú rồi bế em nó về máy thôi.Cài đặt với vài cái next next là xong.
+
+Tiếp theo là các bác vào <a href="https://github.com/gtalarico/ironpython-stubs/wiki" target="_blank">đây</a>  , tích vào <a href="https://www.codehub.vn/IDE-La-Gi" target="_blank">IDE</a>  nào mình đã cài và xem hướng dẫn.
+
+![](pic/Install_Stub.png)
+
+Ở bài này mình sẽ hướng dẫn cho **Visual Sudio Code** thôi nhé vì mình đang sài mỗi em nó.Các bác chỉ việc gõ tổ hợp phím` Crt+Shift+P `vào phần **OpenSetting**(Json) dán thêm đoạn này vào : 
 
 ```
 //Python
