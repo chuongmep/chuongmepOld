@@ -8,7 +8,7 @@ cover: cover.png
 Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ### Đây là cái gì ?
- RevitPythonShell(RPS) cơ bản chính là một tiện ích nhỏ trong Revit cho phép mình viết các plugin bằng ngôn ngữ **Python**.Tuyệt vời hơn là nó cho phép bạn xem ngay kết quả sau khi vừa gõ mã xong, đó cũng chính là cái điểm mạnh của RPS, nếu như mình kết hợp thêm với <a href="https://github.com/jeremytammik/RevitLookup" target="_blank">RevitLookup</a> nữa thì chả khác nào hồ mọc thêm cọng long cánh với Revit API.
+ RevitPythonShell(RPS) cơ bản chính là một tiện ích nhỏ trong Revit cho phép mình viết các plugin bằng ngôn ngữ **Python**.Tuyệt vời hơn là nó cho phép mình xem ngay kết quả sau khi vừa gõ mã xong, đó cũng chính là cái điểm mạnh của RPS, nếu như mình kết hợp thêm với <a href="https://github.com/jeremytammik/RevitLookup" target="_blank">RevitLookup</a> nữa thì chả khác nào hồ mọc thêm cọng long cánh với Revit API.
  
 ---
 ### Cài đặt như thế nào ?
