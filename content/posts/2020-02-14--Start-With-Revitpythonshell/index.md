@@ -52,6 +52,8 @@ for i in selection:
     Category.append(i.Category.Name)    
 print ElementID,ElementName,Category
 ```
+Kết quả 
+
 ![](pic/result.png)
 
 Nếu các bác mới gõ tới đây mà la làng thì nên học tiếp nha, mọi chuyện không dễ dàng thế đâu.😎
