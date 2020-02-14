@@ -90,10 +90,15 @@ Xong rồi, giờ mình sẽ **Reload** lại như bước bên trên để nó 
 
 Hehe, lên rồi, đúng cái mình test rồi, còn chờ gì nữa mà không làm cái bự hơn chứ 😁
 
+Ngoài ra các bác có thể tham khảo các mã nguồn mở của các bác đã viết mình có để list bên dưới đây:
+- [pyRevitMEP](https://github.com/CyrilWaechter/pyRevitMEP) Addin phục vụ chuyên cho MEP
+- [pyrevitscripts](https://github.com/htlcnn/pyrevitscripts) Addin bên kết cấu của tác giả Hoàng Thanh Long
+- [pyApex](https://github.com/apex-project/pyApex)
+- [pyL_R](https://github.com/antonbondarchuk/pyL_R/tree/master/pyL_R.tab)
+
 ### Tổng kết
 
 Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
-
 
 ### Tham khảo :
 
