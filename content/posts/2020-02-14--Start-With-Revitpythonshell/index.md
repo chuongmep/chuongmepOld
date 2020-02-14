@@ -68,11 +68,7 @@ Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồ
 ### Tham khảo :
 
 <a href="https://github.com/architecture-building-systems/revitpythonshell" target="_blank">RevitPythonShell</a>
-
-<a href="https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/" target="_blank">Scripting-Autodesk-Revit-With-Revitpythonshell</a> 
-
+<a href="https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/" target="_blank">Scripting-Autodesk-Revit-With-Revitpythonshell</a>
 <a href="http://thebuildingcoder.typepad.com/files/cp3837-l_scripting_revitpythonshell_handout.pdf" target="_blank">Scripting_RevitPythonShell_Handout</a>
-
 <a href="https://stackoverflow.com/questions/54325392/modify-selection-to-first-element-by-selection-setelementids" target="_blank">Selection Element Revit API</a> 
-
-<a href="https://revitpythonwrapper.readthedocs.io/en/latest/index.html" target="_blank">Revit Python Wrapper</a>  
+<a href="https://revitpythonwrapper.readthedocs.io/en/latest/index.html" target="_blank">Revit Python Wrapper</a>
