@@ -14,11 +14,11 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 ### Cài đặt như thế nào ?
 Cũng như mọi addin cài vào Revit mà thôi, bản cài đặt exe đó các bác, link tải về mình để ở dưới đây :
 
-<a href="data/2017.03.07_Setup_RevitPythonShell_2016.exe" target="_blank">Autodesk Revit 2016</a> 
-<a href="data/2017.04.06_Setup_RevitPythonShell_2017.exe" target="_blank">Autodesk Revit 2017</a> 
-<a href="data/2017.07.24_Setup_RevitPythonShell_2018.exe" target="_blank">Autodesk Revit 2018</a> 
-<a href="data/2018.09.19_Setup_RevitPythonShell_2019.exe" target="_blank">Autodesk Revit 2019</a> 
-<a href="data/2020.01.19_Setup_RevitPythonShell_2020.exe" target="_blank">Autodesk Revit 2020</a>      
+<a href="data/2017.03.07_Setup_RevitPythonShell_2016.exe" target="_blank">Autodesk Revit 2016</a>
+<a href="data/2017.04.06_Setup_RevitPythonShell_2017.exe" target="_blank">Autodesk Revit 2017</a>
+<a href="data/2017.07.24_Setup_RevitPythonShell_2018.exe" target="_blank">Autodesk Revit 2018</a>
+<a href="data/2018.09.19_Setup_RevitPythonShell_2019.exe" target="_blank">Autodesk Revit 2019</a>
+<a href="data/2020.01.19_Setup_RevitPythonShell_2020.exe" target="_blank">Autodesk Revit 2020</a>     
 
 Sau khi cài đặt thành công trong tab Ribbon của Revit các bác sẽ dễ dàng nhìn thấy một cái gì đó màu vàng vàng như thế này, chính là hắn đấy.😎
 
