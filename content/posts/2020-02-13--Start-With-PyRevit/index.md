@@ -1,5 +1,5 @@
 ---
-title: "Start With pyRevit"
+title: "Get Started Developing for pyRevit"
 subTitle: "Làm như thế nào để bắt đầu với pyRevit"
 category: tool
 cover: cover.png
