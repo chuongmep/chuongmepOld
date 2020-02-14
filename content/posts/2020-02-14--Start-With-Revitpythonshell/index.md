@@ -14,11 +14,11 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 ### Cài đặt như thế nào ?
 Cũng như mọi addin cài vào Revit mà thôi, bản cài đặt exe đó các bác, link tải về mình để ở dưới đây :
 
-<a href="data/2017.03.07_Setup_RevitPythonShell_2016.exe" target="_blank">Autodesk Revit 2016</a>
-<a href="data/2017.04.06_Setup_RevitPythonShell_2017.exe" target="_blank">Autodesk Revit 2017</a>
-<a href="data/2017.07.24_Setup_RevitPythonShell_2018.exe" target="_blank">Autodesk Revit 2018</a>
-<a href="data/2018.09.19_Setup_RevitPythonShell_2019.exe" target="_blank">Autodesk Revit 2019</a>
-<a href="data/2020.01.19_Setup_RevitPythonShell_2020.exe" target="_blank">Autodesk Revit 2020</a>     
+<a href="data/2017.03.07_Setup_RevitPythonShell_2016.exe" target="_blank">Autodesk Revit 2016</a> <br>
+<a href="data/2017.04.06_Setup_RevitPythonShell_2017.exe" target="_blank">Autodesk Revit 2017</a> <br>
+<a href="data/2017.07.24_Setup_RevitPythonShell_2018.exe" target="_blank">Autodesk Revit 2018</a> <br>
+<a href="data/2018.09.19_Setup_RevitPythonShell_2019.exe" target="_blank">Autodesk Revit 2019</a> <br>
+<a href="data/2020.01.19_Setup_RevitPythonShell_2020.exe" target="_blank">Autodesk Revit 2020</a> <br>    
 
 Sau khi cài đặt thành công trong tab Ribbon của Revit các bác sẽ dễ dàng nhìn thấy một cái gì đó màu vàng vàng như thế này, chính là hắn đấy.😎
 
@@ -67,8 +67,8 @@ Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồ
 
 ### Tham khảo :
 
-<a href="https://github.com/architecture-building-systems/revitpythonshell" target="_blank">RevitPythonShell</a>
-<a href="https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/" target="_blank">Scripting-Autodesk-Revit-With-Revitpythonshell</a>
-<a href="http://thebuildingcoder.typepad.com/files/cp3837-l_scripting_revitpythonshell_handout.pdf" target="_blank">Scripting_RevitPythonShell_Handout</a>
-<a href="https://stackoverflow.com/questions/54325392/modify-selection-to-first-element-by-selection-setelementids" target="_blank">Selection Element Revit API</a> 
+<a href="https://github.com/architecture-building-systems/revitpythonshell" target="_blank">RevitPythonShell</a> <br>
+<a href="https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/" target="_blank">Scripting-Autodesk-Revit-With-Revitpythonshell</a> <br>
+<a href="http://thebuildingcoder.typepad.com/files/cp3837-l_scripting_revitpythonshell_handout.pdf" target="_blank">Scripting_RevitPythonShell_Handout</a> <br>
+<a href="https://stackoverflow.com/questions/54325392/modify-selection-to-first-element-by-selection-setelementids" target="_blank">Selection Element Revit API</a> <br> 
 <a href="https://revitpythonwrapper.readthedocs.io/en/latest/index.html" target="_blank">Revit Python Wrapper</a>
