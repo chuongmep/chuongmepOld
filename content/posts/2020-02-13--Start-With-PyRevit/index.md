@@ -13,13 +13,13 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
  - Thêm một Ribbon tùy chỉnh vào thanh tiện ích trên Revit.
  - Tạo ra các ý tưởng của các bác với vài dòng code một cách nhanh chóng, không phải build phức tạp nữa.
  - Viết Addin riêng với Python(IronPython hoặc CPython), C Sharp, VB.Net
- - Phối hợp được luôn với các công cụ be bé như Dynamo, Pyrevit, Grasshopper hợp nhất giao diện
+ - Phối hợp được luôn với các công cụ be bé như Dynamo, Pyrevit, Grasshopper hợp nhất giao diện.
  - Chia sẻ lên cộng đồng như Github để họ học họi hoặc thậm chí là giúp các bác tiếp tục triển khai ý tưởng đó bự hơn, chà bá hơn.
 
 ---
 ### Cài đặt như thế nào 
 
-Đầu tiên các bác muốn cài đặt thì vào trang [này](https://github.com/eirannejad/pyRevit/releases) sau đó tìm xuống tệp có  đuôi .Exe để tải về trước về.Công việc cài đặt cũng chỉ next next như các phần mềm thông thường thế là xong 😁 
+Đầu tiên các bác muốn cài đặt thì vào trang [này](https://github.com/eirannejad/pyRevit/releases) sau đó tìm xuống tệp có  đuôi .Exe để tải về trước về.Công việc cài đặt cũng chỉ next next như các phần mềm thông thường thế là xong. 😁 
 
 ![](pic/install.png)
 
@@ -88,7 +88,7 @@ Xong rồi, giờ mình sẽ **Reload** lại như bước bên trên để nó 
 
 ![](pic/result.png)
 
-Hehe, lên rồi, đúng cái mình test rồi, còn chờ gì nữa mà không làm cái bự hơn chứ 😁
+Hehe, lên rồi, đúng cái mình test rồi, còn chờ gì nữa mà không làm cái bự hơn chứ.😁
 
 Ngoài ra các bác có thể tham khảo các mã nguồn mở của các bác đã viết mình có để list bên dưới đây:
 - [pyRevitMEP](https://github.com/CyrilWaechter/pyRevitMEP) Addin phục vụ chuyên cho MEP
