@@ -19,7 +19,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 ---
 ### Cài đặt như thế nào 
 
-Đầu tiên các bác muốn cài đặt thì vào trang [này](https://github.com/eirannejad/pyRevit/releases) sau đó tìm xuống tệp có  đuôi .Exe để tải về trước về.Công việc cài đặt cũng chỉ next next như các phần mềm thông thường thế là xong. 😁 
+Đầu tiên các bác muốn cài đặt thì vào trang <a href="https://github.com/eirannejad/pyRevit/releases" target="_blank">này</a> sau đó tìm xuống tệp có  đuôi .Exe để tải về trước về.Công việc cài đặt cũng chỉ next next như các phần mềm thông thường thế là xong. 😁 
 
 ![](pic/install.png)
 
