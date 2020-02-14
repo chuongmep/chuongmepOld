@@ -1,13 +1,13 @@
 ---
-title: "Start With PyRevit"
-subTitle: "Làm như thế nào để bắt đầu với Pyrevit"
+title: "Start With pyRevit"
+subTitle: "Làm như thế nào để bắt đầu với pyRevit"
 category: tool
 cover: cover.png
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄
 
- Pyrevit là môi trường tạo mẫu ứng dụng nhanh cho Autodesk Revit.Môi trường này giúp mình lên những ý tưởng tự động hóa nhanh chóng như một addin thực thụ với bất kì ngôn ngữ nào mà mình thấy mình làm chủ tốt nhất, khi các bác cài đặt Pyrevit cũng sẽ bao gồm các tiện ích **CLI** Để tận dụng lại và tiếp tục tùy chỉnh triển khai tiếp, không phải đập đi xây lại đâu.
+ Pyrevit là môi trường tạo mẫu ứng dụng nhanh cho Autodesk Revit.Môi trường này giúp mình lên những ý tưởng tự động hóa nhanh chóng như một addin thực thụ với bất kì ngôn ngữ nào mà mình thấy mình làm chủ tốt nhất, khi các bác cài đặt pyRevit cũng sẽ bao gồm các tiện ích **CLI** Để tận dụng lại và tiếp tục tùy chỉnh triển khai tiếp, không phải đập đi xây lại đâu.
 
  Pyrevit có thể làm được : 
  - Thêm một Ribbon tùy chỉnh vào thanh tiện ích trên Revit.
