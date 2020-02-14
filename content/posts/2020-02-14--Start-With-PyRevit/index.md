@@ -14,7 +14,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
  - Tạo ra các ý tưởng của các bác với vài dòng code một cách nhanh chóng, không phải build phức tạp nữa.
  - Viết Addin riêng với Python(IronPython hoặc CPython), C Sharp, VB.Net
  - Phối hợp được luôn với các công cụ be bé như Dynamo, Pyrevit, Grasshopper hợp nhất giao diện.
- - Chia sẻ lên cộng đồng như Github để họ học họi hoặc thậm chí là giúp các bác tiếp tục triển khai ý tưởng đó bự hơn, chà bá hơn.
+ - Chia sẻ lên cộng đồng như Github để họ học hỏi hoặc thậm chí là giúp các bác tiếp tục triển khai ý tưởng đó bự hơn, chà bá hơn.
 
 ---
 ### Cài đặt như thế nào 
