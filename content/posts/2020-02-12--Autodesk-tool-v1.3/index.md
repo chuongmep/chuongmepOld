@@ -34,7 +34,7 @@ Giao diện tool :
 
 ![](https://github.com/chuong9x/DataBlog/blob/master/AutodeskToolsV1.3/68285419_10219713020122874_6470352159656378368_n.jpg?raw=true)
 
-Link tải về mình để ở [Đây](http://www.mediafire.com/file/at5tjk5qjcjavf8/Autodesk_Tools_V1.3.exe/file), bác nào bị thì có thể bế e nó về chạy .
+Link tải về mình để ở  <a href="http://www.mediafire.com/file/at5tjk5qjcjavf8/Autodesk_Tools_V1.3.exe/file" target="_blank">đây</a>, bác nào bị thì có thể bế e nó về chạy .
 
 
 ### Lưu ý 

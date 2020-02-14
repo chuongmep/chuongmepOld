@@ -37,7 +37,7 @@ clr.ImportExtensions(Revit.Elements)
 ```
 Refresh = IN[0]
 ```
-### Bước 3 : Lấy về Tất cả các View có trong mô hình với [FilteredElementCollector](https://www.revitapidocs.com/2015/263cf06b-98be-6f91-c4da-fb47d01688f3.htm)
+### Bước 3 : Lấy về Tất cả các View có trong mô hình với <a href="https://www.revitapidocs.com/2015/263cf06b-98be-6f91-c4da-fb47d01688f3.htm" target="_blank">FilteredElementCollector</a>  
 ```
 doc = DocumentManager.Instance.CurrentDBDocument
 collector = FilteredElementCollector(doc)
@@ -55,11 +55,11 @@ Cuối cùng mình sẽ có một Scripts hoàn chỉnh như thế này,Phía tr
 
 Ngoài những cách làm bên trên: 
 
-Mình có thể dùng một gói của [archi-lab](https://archi-lab.net/)
+Mình có thể dùng một gói của <a href="https://archi-lab.net/" target="_blank">archi-lab</a>
 
 ![](https://github.com/chuong9x/DataBlog/blob/master/GetAllViewInDynamo/906df8d59dddc2e7ff75b6f0c88e70ba47cb5312.png?raw=true)
 
-Mình có thể dùng **GetViewsByType** của gói [Modelical](https://www.modelical.com/en/modelical-package-for-dynamo/).Tiền thân của gói này là từ **archi-lab** nhưng không được để lại ở những phiên bản đời cao.
+Mình có thể dùng **GetViewsByType** của gói <a href="https://www.modelical.com/en/modelical-package-for-dynamo/" target="_blank">Modelical</a>.Tiền thân của gói này là từ **archi-lab** nhưng không được để lại ở những phiên bản đời cao.
 
 ![](https://github.com/chuong9x/DataBlog/blob/master/GetAllViewInDynamo/GetAllVieByType.png?raw=true)
 
@@ -69,6 +69,7 @@ Vậy là mình đã kể cho các bác nghe xong hết câu chuyện rồi đó
 
 ### Tham khảo :
 
-[Dynamo Forum](https://forum.dynamobim.com/t/get-all-views-node/4494/5)
+<a href="https://forum.dynamobim.com/t/get-all-views-node/4494/5" target="_blank">Dynamo Forum</a>
 
-[Dynamo Github](https://primer.dynamobim.org/10_Custom-Nodes/10-6_Python-Templates.html)
+<a href="https://primer.dynamobim.org/10_Custom-Nodes/10-6_Python-Templates.html" target="_blank">Dynamo Github</a>  
+

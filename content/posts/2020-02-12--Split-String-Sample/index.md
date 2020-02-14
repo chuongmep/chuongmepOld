@@ -9,7 +9,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ---
 
-Hôm trước mình có viết một [bài](https://chuongmep.com/break-string-in-dynamo-list-with-characters/) ngăn cách giữa các phần tử danh sách với dấu phẩy, hôm nay mình sẽ tiếp tục làm công việc lấy phần tử từ bên trong một chuỗi **List** ra.Ví dụ , trong danh sách có các phần từ `Level 01 `thì mình chỉ muốn lấy `01` ra để  sử dụng tiếp mà thôi, vậy thì mình sẽ bắt tay vào làm thôi.
+Hôm trước mình có viết một <a href="https://chuongmep.com/break-string-in-dynamo-list-with-characters" target="_blank">bài</a> ngăn cách giữa các phần tử danh sách với dấu phẩy, hôm nay mình sẽ tiếp tục làm công việc lấy phần tử từ bên trong một chuỗi **List** ra.Ví dụ , trong danh sách có các phần từ `Level 01 `thì mình chỉ muốn lấy `01` ra để  sử dụng tiếp mà thôi, vậy thì mình sẽ bắt tay vào làm thôi.
 
 ### Cách 1 : Sử dụng Python Scripts
 #### Tạo một **CodeBlock** hoặc một **Python Script** và dán mã này vào
@@ -42,7 +42,6 @@ Như vậy mình đã có thể giải quyết được cho cả vấn đề có
 Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
 
 ### Tham khảo :
+<a href="https://primer.dynamobim.org/04_The-Building-Blocks-of-Programs/4-4_strings.html" target="_blank">Dynamo Primer</a>
 
-[Dynamo Primer](https://primer.dynamobim.org/04_The-Building-Blocks-of-Programs/4-4_strings.html)
-
-[Hoàng Thanh Long](https://github.com/htlcnn)
+<a href="https://github.com/htlcnn" target="_blank">Hoàng Thanh Long</a>  

@@ -240,8 +240,8 @@ Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồ
 
 ### Tham khảo :
 
-[parametricmonkey](https://parametricmonkey.com/2016/03/09/get-unused-filters/)
+<a href="https://parametricmonkey.com/2016/03/09/get-unused-filters/" target="_blank">parametricmonkey</a>  
 
-[archi-lab.net](https://archi-lab.net/delete-imported-line-patterns-using-dynamo/)
+<a href="https://archi-lab.net/delete-imported-line-patterns-using-dynamo/" target="_blank">archi-lab.net</a>  
 
-[solamour](https://twitter.com/solamour)
+<a href="https://twitter.com/solamour" target="_blank">solamour</a>  

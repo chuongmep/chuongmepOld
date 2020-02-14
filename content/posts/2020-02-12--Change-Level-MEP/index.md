@@ -18,7 +18,7 @@ Các **Element** MEP được chia làm hai loại chính để set, đó là lo
 ### Bước 2 : Kéo dây
 
 Mở Dynamo lên và kéo dây thôi các bác ơi 😄
-Đầu tiên mình lấy về các đối tượng Element có trong View cái đã, mình sẽ sài Node **View** và Scripts này để lấy về tất cả các Element có trong view đã chọn.Nếu các bác muốn lấy về hết tất cả các View để người dùng chọn trong giao diện Form thì xem lại cái bài viết trước của mình ở [đây](https://chuongmep.com/Get-all-view-in-Dynamo/).
+Đầu tiên mình lấy về các đối tượng Element có trong View cái đã, mình sẽ sài Node **View** và Scripts này để lấy về tất cả các Element có trong view đã chọn.Nếu các bác muốn lấy về hết tất cả các View để người dùng chọn trong giao diện Form thì xem lại cái bài viết trước của mình ở <a href="https://chuongmep.com/Get-all-view-in-Dynamo/" target="_blank">đây</a>.
 
 ```
 #GetAllElementInView
@@ -100,8 +100,8 @@ OUT = listout
 
 ![](https://github.com/chuong9x/DataBlog/blob/master/Change%20Level%20MEP/All%20Element%20not%20Host.png?raw=true)
 
-Vậy là ngon cơm rồi, giờ mình sẽ lấy nốt luôn cái đầu vào Level từ cái **view** đã chọn thông qua **GetParameterValueByName** với tên là `Associated Level` là đọc được ngay cái tên Level và dùng **GetLevelByName** của Package [Archilab](https://archi-lab.net/category/dynamo/) 
-Xâu chuỗi nãy giờ mình làm lại là đã giải quyết xong bài toán rồi.Hình ảnh cuối cùng mình để ở [đây](https://github.com/chuong9x/DataBlog/blob/master/Change%20Level%20MEP/Change%20Level%20MEP.png?raw=true) cho bác nào nối chưa được.
+Vậy là ngon cơm rồi, giờ mình sẽ lấy nốt luôn cái đầu vào Level từ cái **view** đã chọn thông qua **GetParameterValueByName** với tên là `Associated Level` là đọc được ngay cái tên Level và dùng **GetLevelByName** của Package <a href="https://archi-lab.net/category/dynamo/" target="_blank">Archi-lab</a>
+Xâu chuỗi nãy giờ mình làm lại là đã giải quyết xong bài toán rồi.Hình ảnh cuối cùng mình để ở <a href="https://github.com/chuong9x/DataBlog/blob/master/Change%20Level%20MEP/Change%20Level%20MEP.png?raw=true" target="_blank">đây</a> cho bác nào nối chưa được.
 
 ### Bước 3 : Run
 Công việc còn lại của mình là chọn **viewPlan** có level cần chạy và đi làm cốc Coffee thôi ! Nhớ đừng chọn nhầm sang View 3D nhé 😳.
@@ -117,7 +117,7 @@ Addin này làm được những gì:
 - Bao quát trường hợp, sử dụng cho cả Revit 2020 với sự thay đổi cấu kiện.
 - Tốc độ xử lý nhanh gọn hơn.
 
-Đây là cách sử dụng Tool Demo cho em nó : [Click Here](https://www.youtube.com/watch?v=SPoOvjVGz5g)
+Đây là cách sử dụng Tool Demo cho em nó : <a href="https://www.youtube.com/watch?v=SPoOvjVGz5g" target="_blank">Click here</a>
 
 #### Tổng kết
 Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !

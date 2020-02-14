@@ -107,7 +107,7 @@ Cuối cùng ta sẽ có một cái gì đó như này với **Path** đầu và
 
 ### Mở rộng 
 
-Hiện đang có một dự án phát triển bời nhà phát triển [shtirlitsDva](https://github.com/shtirlitsDva), các bác có thể xem tại [đây](https://github.com/shtirlitsDva/Revit-PCF-Exporter) hoặc nếu cám thấy hứng thú với chủ đề này thì phụ bác ấy một tay nhé, mã nguồn mở mà 😍
+Hiện đang có một dự án phát triển bời nhà phát triển <a href="https://github.com/shtirlitsDva" target="_blank">shtirlitsDva</a>, các bác có thể xem tại <a href="https://github.com/shtirlitsDva/Revit-PCF-Exporter" target="_blank">đây</a> hoặc nếu cám thấy hứng thú với chủ đề này thì phụ bác ấy một tay nhé, mã nguồn mở mà 😍
 
 ### Tổng kết
 
@@ -115,5 +115,6 @@ Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồ
 
 ### Tham khảo :
 
-[Autodesk Blog](https://blogs.autodesk.com/revit/2017/07/26/exporting-pcf-files-from-revit/?_ga=2.175766946.123799178.1581520246-2029095642.1581002495)
+<a href="https://blogs.autodesk.com/revit/2017/07/26/exporting-pcf-files-from-revit/?_ga=2.175766946.123799178.1581520246-2029095642.1581002495" target="_blank">Autodesk Blog</a>  
+
 

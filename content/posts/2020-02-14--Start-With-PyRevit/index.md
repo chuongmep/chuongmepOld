@@ -23,6 +23,8 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ![](pic/install.png)
 
+
+
 Sau khi cài xong các bác mở Revit lên, nó sẽ yêu cầu một sự kiện thông báo là có muốn load không, như mọi addin khác thì các bác cứ chọn luôn load luôn để lần sau nó khỏi hỏi nhức đầu luôn nhé.
 
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffe8ed854-a0cc-48a7-b8b8-9ec060e84d26%2F2018-06-28_16_56_45-Window.png?table=block&id=cb879840-10dd-40a1-959c-d16c7619b2b0&width=1060&cache=v2)
@@ -91,16 +93,15 @@ Xong rồi, giờ mình sẽ **Reload** lại như bước bên trên để nó 
 Hehe, lên rồi, đúng cái mình test rồi, còn chờ gì nữa mà không làm cái bự hơn chứ.😁
 
 Ngoài ra các bác có thể tham khảo các mã nguồn mở của các bác đã viết mình có để list bên dưới đây:
-- [pyRevitMEP](https://github.com/CyrilWaechter/pyRevitMEP) Addin phục vụ chuyên cho MEP
-- [pyrevitscripts](https://github.com/htlcnn/pyrevitscripts) Addin bên kết cấu của tác giả Hoàng Thanh Long
-- [pyApex](https://github.com/apex-project/pyApex)
-- [pyL_R](https://github.com/antonbondarchuk/pyL_R/tree/master/pyL_R.tab)
+- <a href="https://github.com/CyrilWaechter/pyRevitMEP" target="_blank">pyRevitMEP</a>   Addin phục vụ chuyên cho MEP
+- <a href="https://github.com/htlcnn/pyrevitscripts" target="_blank">pyrevitscripts</a>   Addin bên kết cấu của tác giả Hoàng Thanh Long
+- <a href="https://github.com/apex-project/pyApex" target="_blank">pyApex</a>  
+- <a href="https://github.com/antonbondarchuk/pyL_R/tree/master/pyL_R.tab" target="_blank">pyL_R</a> 
 
 ### Tổng kết
 
 Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
 
 ### Tham khảo :
-
-[Install pyRevit](https://www.notion.so/Install-pyRevit-98ca4359920a42c3af5c12a7c99a196d)
-[pyRevit](https://www.notion.so/pyRevit-bd907d6292ed4ce997c46e84b6ef67a0)
+<a href="https://www.notion.so/Install-pyRevit-98ca4359920a42c3af5c12a7c99a196d" target="_blank">Install pyRevit</a>  
+<a href="https://www.notion.so/pyRevit-bd907d6292ed4ce997c46e84b6ef67a0" target="_blank">pyRevit</a>
