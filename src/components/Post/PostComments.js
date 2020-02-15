@@ -14,14 +14,35 @@ const styles = theme => ({
   }
 });
 
-const PostComments = props => {
-  const { classes, slug, facebook } = props;
+// const PostComments = props => {
+//   const { classes, slug, facebook } = props;
 
-  return (
-    <div id="post-comments" className={classes.postComment}>
-      <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="4WnwjkGp" data-limit="5"></script>
-    </div>    
-  );
+//   return (
+//     <div id="post-comments" className={classes.postComment}>
+//       <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="4WnwjkGp" data-limit="5"></script>
+//     </div>    
+//   );
+// };
+
+class PostComments extends React.Component {
+  componentDidMount() {
+    const { utterances } = this.props;
+
+    let script = document.createElement("script");
+    let anchor = document.getElementById("post-comments");
+    script.setAttribute("src", "https://comments.app/js/widget.js?2");
+    script.setAttribute("data-comments-app-website", "4WnwjkGp");
+    script.setAttribute("async", true);
+    script.setAttribute("data-limit", "5");
+    anchor.appendChild(script);
+  }
+
+  render() {
+    const { classes } = this.props;
+    return (
+      <div id="post-comments" className={classes.postComments}></div>
+    );
+  }
 };
 
 PostComments.propTypes = {
