@@ -17,16 +17,19 @@ const styles = theme => ({
 const PostComments = props => {
   const { classes, slug, facebook } = props;
 
+  // let cls = `${classes.postComments + ' utterances'}`;
+
   return (
-    <div id="post-comments" className={classes.postComments}>
+    <div id="post-comments" className={classes.postComment}>
+      <div class="utterances"></div>
       <script src="https://utteranc.es/client.js"
-              repo="chuong9x/comment"
-              issue-term="og:title"
-              theme="github-light"
-              crossorigin="anonymous"
-              async>
-      </script>
-    </div>
+            repo="chuong9x/comment"
+            issue-term="og:title"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+    </script>
+    </div>    
   );
 };
 
