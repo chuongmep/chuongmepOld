@@ -8,6 +8,14 @@ Blog được ra đời với sự phát triển của công nghệ vùn vụt, 
 
 Nó ra đời đơn giản như thế đó các bác !
 
+Các chủ đề mà trong blog này viết ra bao gồm : 
+- Dynamo Sripts và Python Scripts
+- Revit API với ngồn ngữ C#
+- Revit API với ngôn ngữ Python
+- Lập trình Python
+- Lập trình C#
+- Autodesk Forge API
+
 ### MÌNH LÀ AI?
 
 * Mình là Hồ Văn Chương, làm trong lĩnh vực **BIM**, chịu trách nhiệm chính trong việc tạo ra các công cụ tự động hóa hỗ trợ cho các kỹ sư, công việc nào tốn thời gian làm lại quá nhiều lần là quăng bùm qua mình là mình chiến hết.
