@@ -57,9 +57,9 @@ Kết quả
 ![](pic/result.png)
 
 Nếu các bác mới gõ tới đây mà la làng thì nên học tiếp nha, mọi chuyện không dễ dàng thế đâu.😎
-Đề triển khai ý tưởng của các bác hoặc kiểm thử thì rất có ích đó chứ, mình có để lại tài liệu bên dưới cho bác nào muốn học thêm hoặc học cho biết, lỡ đâu trong quá trình tìm hiểu các bác lại ngộ ra điều gì thì sao. 😍
+Để triển khai ý tưởng của các bác hoặc kiểm thử thì rất có ích đó chứ, mình có để lại tài liệu bên dưới cho bác nào muốn học thêm hoặc học cho biết, lỡ đâu trong quá trình tìm hiểu các bác lại ngộ ra điều gì thì sao. 😍
 
-- Thông tin thêm : Hiện tại có thử viện **Revit Python Wrapper** đã ngắn nay lại còn ngắn hơn nữa, các bác thử tìm hiểu và code xem sao nhé ! Link mình để ở <a href="https://revitpythonwrapper.readthedocs.io/en/latest/index.html" target="_blank">Đây</a>.
+- Thông tin thêm : Hiện tại có thư viện **Revit Python Wrapper** đã ngắn nay lại còn ngắn hơn nữa, các bác thử tìm hiểu và code xem sao nhé ! Link mình để ở <a href="https://revitpythonwrapper.readthedocs.io/en/latest/index.html" target="_blank">Đây</a>.
 
 ### Tổng kết
 
