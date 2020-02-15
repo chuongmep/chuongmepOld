@@ -19,13 +19,13 @@ const PostComments = props => {
 
   return (
     <div id="post-comments" className={classes.postComments}>
-      <FacebookProvider appId={facebook}>
-        <Comments
-          href={`${config.siteUrl}${slug}`}
-          width="100%"
-          colorScheme={props.theme.main.colors.fbCommentsColorscheme}
-        />
-      </FacebookProvider>
+      <script src="https://utteranc.es/client.js"
+              repo="chuong9x/comment"
+              issue-term="og:title"
+              theme="github-light"
+              crossorigin="anonymous"
+              async>
+      </script>
     </div>
   );
 };
