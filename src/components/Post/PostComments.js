@@ -19,7 +19,7 @@ const PostComments = props => {
 
   return (
     <div id="post-comments" className={classes.postComment}>
-      <ReactUtterences repo="chuong9x/comment" type="og:title" />
+      <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="4WnwjkGp" data-limit="5"></script>
     </div>    
   );
 };
