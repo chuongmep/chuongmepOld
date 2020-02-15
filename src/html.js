@@ -39,10 +39,11 @@ module.exports = class HTML extends React.Component {
           <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png" />
           <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png" />
           <link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png" />
-          <script id="chatBroEmbedCode">{`
-            function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:"undefined"==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error("Chatbro loading error")},xhr.open("GET","//www.chatbro.com/embed.js?"+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}
-            ChatbroLoader({encodedChatId: "253kD"});
-          `}</script>
+          <script id="chatBroEmbedCode"
+            dangerouslySetInnerHTML={{ __html:
+            `function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:"undefined"==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error("Chatbro loading error")},xhr.open("GET","//www.chatbro.com/embed.js?"+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}
+            ChatbroLoader({encodedChatId: "253kD"});`}}
+          />
         </head>
         <body {...this.props.bodyAttributes}>
           <noscript>You need to enable JavaScript to run this app!</noscript>
