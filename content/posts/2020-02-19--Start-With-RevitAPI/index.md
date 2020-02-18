@@ -23,12 +23,20 @@ Theo quan điểm cá nhân của mình thì tiếp cận với mã Python sau �
 ### Cần cài đặt những gì ? 
 - Một cái máy tính **Windows** đủ để cài đặt **Revit** các bản mới
 - <a href="http://go.microsoft.com/fwlink/?linkid=825298" target="_blank">Microsoft .NET Framework</a> : Thằng này trong máy cũng rất quan trọng nhé : 
+
 Revit 2014: NET 4.0
+
 Revit 2015/2016/2017: NET 4.5
+
 Revit 2018: NET 4.5.2
+
 Revit 2019: NET 4.7
-Revit 2020: NET 4.7 trở lên.Bài này mình sử dụng luôn Revit 2020 để theo kịp thời đại nhé .
-- Visual Studio : Tất nhiên là để code rồi, trong Revit cũng có một cái để code đó là **Macro Manager** nhưng tốt nhất là kiểu gì mình cũng sẽ cài thôi, thời điểm viết bài viết này mình đang sử dụng Visual Studio 2017 vì bản 2019 chưa được ổn đinh.Nếu máy các bác chưa có thì có thể bế em nó về ở <a href="https://visualstudio.microsoft.com/vs/older-downloads/" target="_blank">đây</a>  
+
+Revit 2020: NET 4.7 trở lên.
+
+Bài này mình sử dụng luôn Revit 2020 để theo kịp thời đại nhé .
+
+- Visual Studio : Tất nhiên là để code rồi, trong Revit cũng có một cái để code đó là **Macro Manager** nhưng tốt nhất là kiểu gì mình cũng sẽ cài thôi, thời điểm viết bài viết này mình đang sử dụng Visual Studio 2017 vì bản 2019 chưa được ổn đinh.Nếu máy các bác chưa có thì có thể bế em nó về ở <a href="https://visualstudio.microsoft.com/vs/older-downloads/" target="_blank">đây</a>.
 
 ![](pic/InstallVisualStudio.png)
 
@@ -36,7 +44,7 @@ Có tổng cộng đến ba bản, mình là người của công chúng nên c�
 
 ![](pic/vsstudiolod.png)
 
-Sau khi tải về , mình mở lên và chọn như bên dưới hình nhé, lỡ sau này mình có code **Python** nữa thì lỡ rồi làm một lần luôn, đặc biệt là .Net thì phải chú ý cài cho kĩ nhé các bác , không thì sau này có nhiều lỗi phát sinh lắm 
+Sau khi tải về , mình mở lên và chọn như bên dưới hình nhé, lỡ sau này mình có code **Python** nữa thì lỡ rồi làm một lần luôn, đặc biệt là .Net thì phải chú ý cài cho kĩ nhé các bác , không thì sau này có nhiều lỗi phát sinh lắm.
 
 ![](pic/InstallRevitAPI001.png)
 
@@ -49,11 +57,11 @@ Sau khi tải về , mình mở lên và chọn như bên dưới hình nhé, l�
 
 ![](pic/OpenVisualStudio.png)
 
-Tiếp theo mình sẽ nhìn vào thanh bên phải có mục **References** các bác chuột phải vào và chọn AddReferences
+Tiếp theo mình sẽ nhìn vào thanh bên phải có mục **References** các bác chuột phải vào và chọn AddReferences.
 
 ![](pic/AddReference.png)
 
-Tiếp theo mình sẽ thêm hai thư viện của Revit vào là **RevitAPI** và **RevitAPIUI** trong vị trí : `“C:\Program Files\Autodesk\Revit 2020“`.Đừng có lầy mà phiên bản thếp hơn cũng chép nguyên cái đường dẫn vào nha các bác , phiên bản Revit nào thì load thư mục đó sẽ có nhé ! 😆
+Tiếp theo mình sẽ thêm hai thư viện của Revit vào là **RevitAPI** và **RevitAPIUI** trong vị trí : `“C:\Program Files\Autodesk\Revit 2020“`.Đừng có lầy mà phiên bản thấp hơn cũng chép nguyên cái đường dẫn vào nha các bác , phiên bản Revit nào thì load thư mục đó sẽ có nhé ! 😆
 
 ![](pic/AddReference002.png)
 
@@ -67,7 +75,7 @@ Coi như bước đầu đã xong, giờ mình mở vào cái Class1.cs để tr
 
 Giờ mình sẽ triển khai cái class đó kế thừa từ **IExternalCommand**.Các bác cứ hiểu đơn giản là để Revit nó nhận ra cái lớp mình đang khai báo thực thi một cái gì đó ví dụ thực thi giao diện người dùng trong Revit chẳng hạn, hiểu đơn giản hơn là đi massage cũng phải có tấm vé vào cổng vậy đó 😍
 
-Gõ xong nó hiện màu đỏ các bác rê qua chỗ cái bóng đèn màu đỏ và chọn cái đầu tiên, mình sẽ tiếp tục giải thich bên dưới.
+Gõ xong nó hiện màu đỏ các bác rê qua chỗ cái bóng đèn màu đỏ và chọn cái đầu tiên, mình sẽ tiếp tục giải thích bên dưới.
 
 ![](pic/HelloRevitAPI001.png)
 
@@ -77,13 +85,13 @@ Khi chọn vào như trên mình sẽ thấy nó tự sinh ra môt phương th�
 
 Như mọi ngôn ngữ lập trình thì luôn có câu chào cửa miệng là **Hello Word** nghe nhức cả nách, vậy thì mình thử khai báo cho nó để thực thi trong Revit thử xem thế nào.
 
-![](pic/Xinchao.png)
+![](pic/XinChao.png)
 
 Trên Thanh công cụ của Visual Studio, mình chọn vào **Build** và chọn **Build Solution**.Kết quả sau đây hiện lên tức là mình đã cài đặt thành công.
 
 ![](pic/thanhcong.png)
 
-Nếu chỗ này mà Build ra lỗi đỏ que thì là do làm sao, đó chính là do .Net.Các bác có thể sửa bằng cách chọn lại vào Project của mình, Đổi lại .Net đã cài đặt và Build lại nhé ! 
+Nếu chỗ này mà Build ra lỗi đỏ que thì là do làm sao, đó chính là do .NET đó.Các bác có thể sửa bằng cách chọn lại vào Project của mình, Đổi lại .NET đã cài đặt và Build lại nhé ! 
 
 ![](pic/ErrorBuildRevitAPI.png)
 
@@ -137,7 +145,7 @@ Sau khi chép xong mình sẽ khởi động lại Revit phát để nó nhận 
 
 Rồi giờ mình vào Tab Add-ins mục **External tools** xem có thấy của mình không. 
 
-![](pic/resultAPI.png)
+![](pic/ResultAPI.png)
 
 Nhấn vào nó hiện lên bảng thông báo là mình đã thành công !
 
