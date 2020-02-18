@@ -1,7 +1,7 @@
 ---
 title: "Get Started Developing for pyRevit"
 subTitle: "Làm như thế nào để bắt đầu với pyRevit"
-category: tool
+category: revitapi
 cover: cover.png
 ---
 
