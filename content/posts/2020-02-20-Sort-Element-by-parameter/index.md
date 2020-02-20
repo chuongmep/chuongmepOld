@@ -16,7 +16,7 @@ Mình sẽ sử dụng **List.SortByFunction** và sắp xếp lại chúng theo
 
 ![](pic/SortPraDynamo.png)
 
-### Revit API C#
+### Revit API C-Sharp
 
 Mình sử dụng thư viện **Linq** với **OrderBy** để làm được điều này, các bác lưu ý là **OrderBy** có thể sử dụng khi mình chuyển qua list trước nhé .
 ```
