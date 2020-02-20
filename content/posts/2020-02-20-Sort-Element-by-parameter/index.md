@@ -1,6 +1,6 @@
 ---
 title: "Sort Element By Parameter Dynamo RevitAPI"
-subTitle: "Làm thế nào để lọc đối tượng theo parameter"
+subTitle: "Làm thế nào để sắp xếp đối tượng theo parameter"
 category: dynamo,revitapi,python
 cover: cover.png
 ---
@@ -12,13 +12,13 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
  
 ---
 ### Dynamo
-Mình sẽ sử dụng `List.SortByFunction` và sắp xếp lại chúng theo paramter, đầu vào chính là một list Element, đầu ra chính là những phòng có diện tích từ lớn đến bé nhờ `List.Reverse`.
+Mình sẽ sử dụng **List.SortByFunction** và sắp xếp lại chúng theo paramter, đầu vào chính là một list Element, đầu ra chính là những phòng có diện tích từ lớn đến bé nhờ **List.Reverse**.
 
 ![](pic/SortPraDynamo.png)
 
 ### Revit API C#
 
-Mình sử dụng thư viện Linq với **OrderBy** để làm được điều này, các bác lưu ý là **OrderBy** có thể sử dụng khi mình chuyển qua list trước nhé .
+Mình sử dụng thư viện **Linq** với **OrderBy** để làm được điều này, các bác lưu ý là **OrderBy** có thể sử dụng khi mình chuyển qua list trước nhé .
 ```
 FilteredElementCollector Rooms = new FilteredElementCollector(xdoc);
             temc.WherePasses(rmfilter).WhereElementIsNotElementType();
@@ -28,10 +28,11 @@ FilteredElementCollector Rooms = new FilteredElementCollector(xdoc);
             IEnumerable<Element> RoomSort = rooom.Reverse();
 ```
 ### Python 
-
+Đối với python thì ngắn gọn và mình sẽ dùng với cú pháp lambda như thế này và **sorted** theo **Funtion**
+```
 RoomSort = sorted(Room, key = lambda x:x.get_Parameter(BuiltInParameter.ROOM_AREA).AsDouble())
 OUT = RoomSort.reverse()
-
+```
 ### Tổng kết
 
 Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
