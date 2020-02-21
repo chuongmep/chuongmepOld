@@ -1,7 +1,7 @@
 ---
 title: "Sort Element By Parameter Dynamo RevitAPI"
 subTitle: "Làm thế nào để sắp xếp đối tượng theo parameter"
-category: dynamo,revitapi,python
+category: revitapi
 cover: cover.png
 ---
 
@@ -38,3 +38,5 @@ OUT = RoomSort.reverse()
 Vậy là mình đã kể cho các bác nghe xong hết câu chuyện nữa rồi đó, cứ thấy gì đó vui vui hay hay là mình lại viết lên cho a e tham khảo và góp ý, nếu có ý tưởng gì giúp cải thiện nhanh hơn thì các bác bình luận bên dưới nhé, mình sẽ bổ sung để bài viết được hoàn thiện hơn.Cám ơn các bác đã ghé thăm blog của mình !
 
 ### Tham khảo :
+
+[stackoverflow](https://stackoverflow.com/questions/188141/listt-orderby-alphabetical-order)
