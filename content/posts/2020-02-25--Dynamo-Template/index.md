@@ -19,7 +19,7 @@ Hình ảnh xem trước
 
 ![](pic/DynamoTemplate.png)
 
-Liên kết tải xuống : [Here](http://www.mediafire.com/file/edqxb8ymthuhazi/Template.dyn/file)
+Liên kết tải xuống : <a href="http://www.mediafire.com/file/edqxb8ymthuhazi/Template.dyn/file" target="_blank">Here</a>  
 
 ### Tổng kết
 
