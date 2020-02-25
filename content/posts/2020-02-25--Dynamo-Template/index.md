@@ -9,7 +9,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ### Tại sao lại có chia sẻ này ?
 
-Mình ngó sơ qua các bài của mọi người gửi cho mình trợ giúp đều không có, vì đa số viết chạy một lần.Nhưng với cách trình bày này, mình có thể lưu trữ lại sử dụng và gợi nhớ lâu hơn, người khác nhìn vào cũng cảm tháy chuyên nghiệp, người sử dụng cũng dễ dàng nắm bắt và sử dụng tệp không phải do họ tạo ra.
+Mình ngó sơ qua các bài của mọi người gửi cho mình trợ giúp đều không có, vì đa số viết chạy một lần.Nhưng với cách trình bày này, mình có thể lưu trữ lại sử dụng và gợi nhớ lâu hơn, người khác nhìn vào cũng cảm thấy chuyên nghiệp, người sử dụng cũng dễ dàng nắm bắt và sử dụng tệp không phải do họ tạo ra.
  
 
 ---
