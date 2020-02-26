@@ -566,7 +566,7 @@
     {
       "ConcreteType": "CoreNodeModels.Input.BoolSelector, CoreNodeModels",
       "NodeType": "BooleanInputNode",
-      "InputValue": false,
+      "InputValue": true,
       "Id": "6b428e22184c42c481cc0aa019d7d21c",
       "Inputs": [],
       "Outputs": [
@@ -585,7 +585,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Directory, CoreNodeModels",
-      "HintPath": "E:\\My Drive\\CHUONGHO.TBF\\2.DYNAMO\\SCRIPS\\Warning\\No file selected",
+      "HintPath": "C:\\Users\\chuong.ho\\Downloads\\No file selected",
       "InputValue": "No file selected.",
       "NodeType": "ExtensionNode",
       "Id": "c4b0a356df5a44e8a9751e224a0c3b7e",
@@ -741,36 +741,6 @@
       ],
       "Replication": "Auto",
       "Description": "Swaps rows and columns in a list of lists. If there are some rows that are shorter than others, null values are inserted as place holders in the resultant array such that it is always rectangular.\n\nList.Transpose (lists: var[]..[]): var[]..[]"
-    },
-    {
-      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
-      "NodeType": "FunctionNode",
-      "FunctionSignature": "Orchid.RevitProject.Elements.Element.Delete@var[]..[]",
-      "Id": "595442787dd84fc999b2bb644db2529a",
-      "Inputs": [
-        {
-          "Id": "cba301df73b74061a34f667b68a95038",
-          "Name": "element",
-          "Description": "Element as Dynamo type\n\nvar[]..[]",
-          "UsingDefaultValue": false,
-          "Level": 2,
-          "UseLevels": false,
-          "KeepListStructure": false
-        }
-      ],
-      "Outputs": [
-        {
-          "Id": "26755ed389ee43409d6f312cd193c32f",
-          "Name": "watch",
-          "Description": "Add a watch node to verify the output",
-          "UsingDefaultValue": false,
-          "Level": 2,
-          "UseLevels": false,
-          "KeepListStructure": false
-        }
-      ],
-      "Replication": "Auto",
-      "Description": "Delete elements\n\nElement.Delete (element: var[]..[]): string"
     }
   ],
   "Connectors": [
@@ -803,11 +773,6 @@
       "Start": "4b56bcbdaeac43ba9cf155764a9aaafd",
       "End": "74aab27b393b45d2879968f7ca84ec88",
       "Id": "abfe8f1b51c6482487eba76b7f8961f6"
-    },
-    {
-      "Start": "4b56bcbdaeac43ba9cf155764a9aaafd",
-      "End": "12b5d854d21e4e20b640527cffc91460",
-      "Id": "26660d26905b40058dbc2e22a40e1355"
     },
     {
       "Start": "ddc34907983343a3979fe02e389c853f",
@@ -927,7 +892,7 @@
         "Id": "e383060884594350b11cb7a060260031",
         "IsSetAsInput": false,
         "IsSetAsOutput": false,
-        "Excluded": true,
+        "Excluded": false,
         "X": 1716.8312160228877,
         "Y": 46.996326020425613
       },
@@ -1120,21 +1085,28 @@
         "Excluded": false,
         "X": 1815.6624085848953,
         "Y": 446.96985212913711
-      },
-      {
-        "ShowGeometry": true,
-        "Name": "Element.Delete",
-        "Id": "595442787dd84fc999b2bb644db2529a",
-        "IsSetAsInput": false,
-        "IsSetAsOutput": false,
-        "Excluded": false,
-        "X": 1713.6076421111602,
-        "Y": 633.13934711112
       }
     ],
-    "Annotations": [],
-    "X": -513.28865328102052,
-    "Y": 117.27466078431095,
-    "Zoom": 0.61111780823993156
+    "Annotations": [
+      {
+        "Id": "f78940d9ec124d9589b748591233950e",
+        "Title": "Next Step",
+        "Nodes": [
+          "684980d393ed46e8ac20abb2828bd3db"
+        ],
+        "Left": 799.90299425951332,
+        "Top": -43.070884117278737,
+        "Width": 259.0,
+        "Height": 146.0,
+        "FontSize": 36.0,
+        "InitialTop": 9.9291158827212627,
+        "InitialHeight": 123.0,
+        "TextblockHeight": 43.0,
+        "Background": "#FFC1D676"
+      }
+    ],
+    "X": -115.22518085707173,
+    "Y": 309.60115379526007,
+    "Zoom": 0.56121918940675819
   }
 }
