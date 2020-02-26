@@ -78,7 +78,7 @@ Video Demo : <a href="https://www.youtube.com/watch?v=P8UCJhi3ONU" target="_blan
 
 Ở bài này mình chỉ hướng dẫn các bác làm với các loại như ống có CurveEndPoint, vậy với các Famiy không có CurveEndPoint thì sao, gợi ý cho các bác là dùng `FamilyInstance.Location ` nhé, cuối cùng mình gửi các bác Script cho bác nào còn chưa làm được.Chúc các bác thành công.
 
-Picture : <a href="pic/ElementDuplicate.png" target="_blank">Here</a>  
+Picture : <a href="https://github.com/chuong9x/DataBlog/blob/master/Check-Element-Duplicate-Dynamo-Revit/pic/ElementDuplicate.png?raw=true" target="_blank">Here</a> 
 Scripts Dyn : <a href="data/Fix Element Pipe Duplicate.dyn" target="_blank">Here</a>  
 
 ### Tổng kết
