@@ -63,7 +63,7 @@ class PostShare extends React.Component {
           </GooglePlusShareButton> */}
           <FacebookShareButton
             url={url}
-            quote={`${title} - ${excerpt}`}
+            quote={`${title}`}
             aria-label="Facebook share"
           >
             <FacebookIcon round size={iconSize} />
