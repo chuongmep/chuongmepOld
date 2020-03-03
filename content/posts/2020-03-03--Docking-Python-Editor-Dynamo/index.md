@@ -11,7 +11,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 - Sắp xếp lại dock cho Pythonscrtips mà trước giờ các phần mềm khác rất phổ biến, và đây cũng là một tính năng beta mà tác giả mới đề cập gần đây.
 
-![](https://aws1.discourse-cdn.com/business6/uploads/dynamobim/original/3X/2/0/20f580d5d8dfe55e5c7ba7c43b30fa930ebca9d0.gif)
+![](pic/20f580d5d8dfe55e5c7ba7c43b30fa930ebca9d0_2_1033x618.gif)
  
 
 ### Tổng kết
