@@ -1,7 +1,7 @@
 ---
 title: "Get Started with RevitPythonShell"
 subTitle: "Làm như thế nào để bắt đầu với RevitPythonShell"
-category: revit
+category: revitapi
 cover: cover.png
 ---
 

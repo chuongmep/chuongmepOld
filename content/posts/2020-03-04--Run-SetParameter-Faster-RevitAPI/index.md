@@ -1,6 +1,6 @@
 ---
-title: "Run Set Parameter Faster In Revit API"
-subTitle: "Gán giá trị tốt hơn trong xử lý mã Revit API"
+title: "Debug Command Without Restart Revit"
+subTitle: "Gỡ lỗi mã không cần khởi động lại Revit"
 category: revitapi
 cover: cover.png
 ---
