@@ -44,6 +44,7 @@ Thông thường sẽ có các mã ta hay nhìn thấy như :
 - ToDSType(bool) : Để thông báo rằng tui vừa lấy một đối tượng trong revit và quăng vào **Dynamo** đây.Nếu để True thì đồng ý còn ngược lại thì không .
 
 Ví dụ về lấy ElementId :
+
 ```
 /// <summary>
         /// 
@@ -57,10 +58,10 @@ Ví dụ về lấy ElementId :
             ElementId unWrapElementId = UnwrapElement.Id;
             return unWrapElementId;
         }
-
 ```
 
 Ví dụ tạo tường :
+
 ```
  var walls = new List<Revit.Elements.Wall>();
   //elements creation and modification has to be inside of a transaction
@@ -84,6 +85,7 @@ Ví dụ tạo tường :
 ### Converting
 Chuyển đổi qua chuyển đổi lại từ đối tượng Revit sang Dynamo và ngược lại , một ngày nào đó nó chuyển qua chỗ khác thì cũng sẽ có thêm vài cái nữa, đơn giản là vậy 
 - Từ Revit Sang Dynamo 
+
 ```
 //Elements
 Element.ToDSType(bool);
@@ -103,9 +105,9 @@ IEnumerable<Mesh>.ToProtoType() > Mesh[]
 Face.ToProtoType() > IEnumerable<Surface>
 Transform.ToCoordinateSystem() > CoordinateSystem
 BoundingBoxXYZ.ToProtoType() > BoundingBox
-
 ```
 - Từ Dynamo sang Revit
+
 ```
 //Elements
 Element.InternalElement
@@ -122,7 +124,6 @@ Mesh.ToRevitType() > IList<GeometryObject>
 CoordinateSystem.ToTransform() > Transform
 CoordinateSystem.ToRevitBoundingBox() > BoundingBoxXYZ
 BoundingBox.ToRevitType() > BoundingBoxXYZ
-
 ```
 
 ### Tổng kết
