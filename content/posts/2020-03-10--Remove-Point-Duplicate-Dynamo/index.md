@@ -9,7 +9,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ### Mục đích 
 
-- Hôm trước có một bác hỏi mình về vấn đề này , đó là tại sao dùng **List.UniqueItems** không thể loại bỏ được các Point trùng năm trong list, mặc dù nó có loại bỏ.Lý do ở đây là Point có một điểm khác **Vector** so với **Point** Còn lại .Vậy thì bây giờ vấn đề sẽ xử lí như thế nào ?
+- Hôm trước có một bác hỏi mình về vấn đề này , đó là tại sao dùng **List.UniqueItems** không thể loại bỏ được các **Point** trùng năm trong **List**, mặc dù nó có loại bỏ.Lý do ở đây là **Point** có một điểm khác **Vector** so với **Point** Còn lại .Vậy thì bây giờ vấn đề sẽ xử lí như thế nào ?
 
 ### Cách xử lý
 
@@ -17,7 +17,7 @@ Cách 1 : Duỗi **List** sang **String** với node **StringFromObject** Và s�
 
 Cách 2 : Sử dụng node **Point.PruneDuplicates**
 
-Với node này sẽ loại bỏ đi những điểm trùng trong một List đưa vào, vấn đề là các bác chưa hề biết đến sự tồn tại của node này mà thôi.
+Với node này sẽ loại bỏ đi những điểm trùng trong một **List** đưa vào, vấn đề là các bác chưa hề biết đến sự tồn tại của node này mà thôi.
 
 ![](pic/image_2020_03_10T04_23_21_789Z.png)
 
