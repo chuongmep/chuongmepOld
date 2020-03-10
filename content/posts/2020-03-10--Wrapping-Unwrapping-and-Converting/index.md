@@ -16,7 +16,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 Unwrapping : Hiểu đơn giản nhất là gì , chính là đòi em Dynamo mở cái khẩu trang ra cho anh Revit coi mắt và xem được, biết được em nó là con nhà ai, có vợ hay chưa có vợ.Rồi sau đó mới muốn làm gì thì làm.😁
 
 Cú Pháp : 
-- Viết với một Funtion để sử dụng lại
+- Viết với một Funtion để sử dụng lại (**Python**)
 ```
 def Unwrap(item):
     return UnwrapElement(item)
@@ -30,7 +30,7 @@ Nếu mình không sử dụng **UnwrapElement** thì đa số là sẽ báo l�
 
 ![](pic/Screendsdashot_ssdsdsdư1.png)
 
-Ví dụ lấy về type_parameter từ một Đối tượng bên ngoài : 
+Ví dụ lấy về type_parameter từ một Đối tượng bên ngoài (**Python**)
 ```
 group = UnwrapElement(IN[0])
 group_type_id = group.GetTypeId()
@@ -42,8 +42,12 @@ OUT = type_parameter
 Thông thường sẽ có các mã ta hay nhìn thấy như :
 - InternalElement  : Hiểu đơn giản là trong lớp Revit.Elements nó đã trả về một **wrapped** trong **Dynamo**, vì vậy ta cần phải chạy lệnh này để có quyền truy cập vào các đối tượng.
 - ToDSType(bool) : Để thông báo rằng tui vừa lấy một đối tượng trong revit và quăng vào **Dynamo** đây.Nếu để True thì đồng ý còn ngược lại thì không .
+Hãy nhìn Class dưới đây để hình dung rõ hơn về ToDSType
 
-Ví dụ về lấy ElementId :
+
+![](pic/ToDSTypeTrue.png)
+
+Ví dụ về lấy ElementId mô tả cho InternalElement :
 
 ```
 /// <summary>
