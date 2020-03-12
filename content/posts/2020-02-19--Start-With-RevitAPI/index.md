@@ -24,15 +24,7 @@ Theo quan điểm cá nhân của mình thì tiếp cận với mã Python sau �
 - Một cái máy tính **Windows** đủ để cài đặt **Revit** các bản mới
 - <a href="http://go.microsoft.com/fwlink/?linkid=825298" target="_blank">Microsoft .NET Framework</a> : Thằng này trong máy cũng rất quan trọng nhé : 
 
-Revit 2014: NET 4.0
-
-Revit 2015/2016/2017: NET 4.5
-
-Revit 2018: NET 4.5.2
-
-Revit 2019: NET 4.7
-
-Revit 2020: NET 4.7 trở lên.
+![](pic/FarmWorkRevit.png)
 
 Bài này mình sử dụng luôn Revit 2020 để theo kịp thời đại nhé .
 
