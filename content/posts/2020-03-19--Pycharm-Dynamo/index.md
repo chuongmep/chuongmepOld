@@ -9,7 +9,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ### Mục đích
 
-- Bài này viết với tiêu chí hướng dẫn cho các bác cài đặt **Pycharm** và  đưa môi trường này sử dụng nó vào viết mã hỗ trợ trong Dynamo với ngôn ngữ Python.
+Bài này viết với tiêu chí hướng dẫn cho các bác cài đặt **Pycharm** và  đưa môi trường này sử dụng nó vào viết mã hỗ trợ trong Dynamo với ngôn ngữ Python.
 
 ### Mở đầu 
 
@@ -17,7 +17,7 @@ Như các bác thấy đó, IDE có sẵn trong môi trường Dynamo thật s�
 Ở bài viết này mình chỉ đề cập dến Pycharm.Nếu các bác muốn xem cách sử dụng với Visual Studio Code thì các bác có thể xem bài viết mình đã viết rồi ở <a href="https://chuongmep.com/Autocomplete-stubs-for-common-IronPython-NET-libraries/" target="_blank">đây</a> 
 
 ### Cách thực hiện
-Đầu tiên tất nhiên là mình sẽ phải tải Pycharm về rồi, công việc rất đơn giản , các bác chỉ việc vào trang chủ ở <a href="https://www.jetbrains.com/education/download/download-thanks-pce.html" target="_blank">Here</a> tải về mà thôi.Mình khuyến nghị các bác sử dụng bản Edu vì nó hơn một bậc so với bản cộng đồng.Nếu các bác muốn tải bản đó thì cũng ko sao hết nha.
+Đầu tiên tất nhiên là mình sẽ phải tải Pycharm về rồi, công việc rất đơn giản , các bác chỉ việc vào trang chủ ở <a href="https://www.jetbrains.com/education/download/download-thanks-pce.html" target="_blank">đây</a> tải về mà thôi.Mình khuyến nghị các bác sử dụng bản Edu vì nó hơn một bậc so với bản cộng đồng.Nếu các bác muốn tải bản đó thì cũng ko sao hết nha.
 
 ![](pic/PycharmEdu.png)
 
@@ -48,4 +48,4 @@ Cuối cùng mình chép thư viện IronPython Autocomplete vào từ <a href="
 Đại dịch virus corona đang hoành hành tại thời điểm này , các bác hãy bảo vệ cá nhân và trong thời gian ở nhà nên học thêm nhiều cái mới , cuối cùng mình chúc bác thực hiện thành công.Cám ơn các bác đã ghé thăm blog và đọc bài viết của mình.
 ### Tham khảo :
 
-<a href="https://forum.dynamobim.com/t/add-dll-reference-to-get-the-intellisense/12829" target="_blank">Here</a> 
+<a href="https://forum.dynamobim.com/t/add-dll-reference-to-get-the-intellisense/12829" target="_blank">Dyanmo Forum</a> 
