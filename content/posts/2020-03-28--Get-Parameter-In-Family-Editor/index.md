@@ -99,8 +99,12 @@ OUT = parameter,name
 ![](pic/FamilyEditor001.png)
 
 ### Mở rộng
+
 - Phần này mình có ngẫu hứng làm một video hướng dẫn nên mọi người có muốn xem nó được viết như nào thì có thể xem tại <a href="https://www.youtube.com/watch?v=vTxzTM2m2do" target="_blank">Link</a>.
+
 ### Tổng kết
+
 Với những chia sẻ như trên, hi vọng sẽ giúp được các bác trong những chuyện gặp phải hằng ngày của các bác như mình , biết đâu một ngày đó các bác lại có ý tưởng hay hơn mình và cùng ngồi lại chỗ này để thảo luận, cuối bài viết mình xin cảm ơn tất cả các bác đã ghé thăm và đọc bài viết trên blog của mình.Nếu có ý kiến hoặc góp ý, hãy để lại lời nhắn bên dưới bình luận mình sẽ bổ sung sửa lỗi.
+
 ### Tham khảo :
 Hồ Văn Chương
