@@ -49,7 +49,7 @@ name = []
 parameter = []
 
 ```
-#### Khai báo một Class FamilyOption
+### Khai báo một Class FamilyOption
 
 ```
 class FamilyOption(IFamilyLoadOptions):
@@ -62,7 +62,7 @@ class FamilyOption(IFamilyLoadOptions):
 
 ```
 
-#### Xử lý thuật toán
+### Xử lý thuật toán
 
 ```
 try:
@@ -88,13 +88,13 @@ except Exception, ex:
 ```
 
 
-#### Kết thúc đầu ra
+### Kết thúc đầu ra
 
 ```
 OUT = parameter,name
 ```
 
-#### Kết quả 
+### Kết quả 
 
 ![](pic/FamilyEditor001.png)
 
