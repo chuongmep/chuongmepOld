@@ -15,11 +15,13 @@ Các chủ đề mà trong blog này viết ra bao gồm :
 - Lập trình Python
 - Lập trình C#
 - Autodesk Forge API
+- Augmented Reality + VR
+- Print 3D
 - ... 
 
 ### MÌNH LÀ AI?
 
-* Mình là Hồ Văn Chương, làm trong lĩnh vực BIM Engineering Technologist, chịu trách nhiệm chính trong việc nghiên cứu phát triển các công cụ tự động hóa hỗ trợ cho các kỹ sư, công việc nào tốn thời gian làm lại quá nhiều lần là mình lại đưa ra giải pháp hỗ trợ, phần nào nhẹ đầu cho các kỹ sư.
+* Mình là Hồ Văn Chương, làm trong lĩnh vực BIM Technologist Specialist, chịu trách nhiệm chính trong việc nghiên cứu phát triển các công cụ tự động hóa hỗ trợ cho các kỹ sư, công việc nào tốn thời gian làm lại quá nhiều lần là mình lại đưa ra giải pháp hỗ trợ, phần nào nhẹ đầu cho các kỹ sư.
 * Một con người thà bỏ thời gian một tuần để code còn hơn là đi làm cái việc đó lặp đi lặp lại quá nhiều lần.
 * Từ nhỏ sống trong vùng xa xôi hẻo lánh, hạn chế công nghệ nên quyết tâm sau này sẽ mang công nghệ về đến tất cả mọi người.
 * Hiện mình đang làm việc tại **THE BIM FACTORY** thực hiện một số dự án trong và ngoài nước, nếu cần thiết bạn có thể liên hệ với bộ phận HR để được xin một chân vào giao lưu nhé.
