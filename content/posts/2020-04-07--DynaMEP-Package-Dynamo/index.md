@@ -17,11 +17,11 @@ Bài viết này mình sẽ giới thiệu cho các bác một gói hỗ trợ n
 - Hỗ trợ các vấn đề với Family.
 - Hỗ trợ với kết nối cấu kiện.
 - Hỗ trợ Geometry(hiện tại bản 1.0.1 mình chưa ra nhiều nhưng sẽ cập nhật trong thời gian tới).
-- Hỗ trợ Elements nâng cao trong các trường hợp cần xử lí nằm ngoài gói .
+- Hỗ trợ Elements nâng cao trong các trường hợp cần xử lý nằm ngoài gói .
 - Hỗ trợ các phiên bản 2.0 trở lên đến phiên bản mới nhất hiện tại 2.5 trên Revit 2021.
-- Hỗ trợ người dùng MEP.
+- Hỗ trợ người dùng MEP.(Pipe,Duct,Connector,Insulation,Cable Trays,...)
 - Hỗ trợ trích xuất dữ liệu PointCloud.
-- hỗ trợ xử lí Revit Model.
+- Hỗ trợ xử lý Revit Model.
 - Hỗ trợ làm việc với Các lỗi cảnh báo (Warning trong mô hình).
 ...
 ### Tải xuống 

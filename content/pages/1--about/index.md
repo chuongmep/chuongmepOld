@@ -26,7 +26,7 @@ Các chủ đề mà trong blog này viết ra bao gồm :
 * Từ nhỏ sống trong vùng xa xôi hẻo lánh, hạn chế công nghệ nên quyết tâm sau này sẽ mang công nghệ về đến tất cả mọi người.
 * Hiện mình đang làm việc tại **THE BIM FACTORY** thực hiện một số dự án trong và ngoài nước, nếu cần thiết bạn có thể liên hệ với bộ phận HR để được xin một chân vào giao lưu nhé.
 * Có máu kinh doanh, viết lách thuê từ nhỏ, đam mê mày mò công nghệ nhưng cuộc đời đưa đẩy sang làm kỹ sư nên giờ mở ra cái blog này.
-* Đẹp trai, nhà giàu, học giỏi, chưa có bạn gái, có honda riêng, nhưng có mỗi cái tật là hay nói sạo sạo trêu bạn bè !
+* Nếu bạn thích những gì mình viết ở đây, hãy mua hoặc tặng 10.000 đồng cho một người bán dạo mà bạn gặp trên đường hôm nay.
 
 
 #### Lời cuối cùng, cám ơn các bác đã ghé thăm blog của mình , nếu các bác thấy hay hãy chia sẻ và để lại bình luận bên dưới bài viết nhé !
