@@ -26,6 +26,6 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/chuong9x" },
-    { name: "facebook", url: "https://facebook.com/CHUONGMEP" }
+    { name: "linkedin", url: "https://www.linkedin.com/in/chuong-ho/" }
   ]
 };
