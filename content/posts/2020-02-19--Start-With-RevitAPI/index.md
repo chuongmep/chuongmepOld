@@ -109,7 +109,7 @@ Kết quả trả về :
 
 Mình sẽ tiến Hành khai báo addin với tệp ban đầu là xml và đổi đuôi thành .addin để Revit nó biết là mình định danh cho một addin 
 
-```
+``` html
 <?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Command">

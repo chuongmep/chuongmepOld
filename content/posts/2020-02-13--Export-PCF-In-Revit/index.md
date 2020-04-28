@@ -14,7 +14,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 ---
 ### Cách 1 : Sử dụng Dynamo Scripts
 
-```
+``` python
 #Khai báo thư viện
 import clr
 clr.AddReference('ProtoGeometry')
@@ -62,7 +62,7 @@ Cuối cùng ta sẽ có một cái gì đó như này với **Path** đầu và
 
 ### Cách 2 : Sử dụng Revit API Viết mã với `C#`
 
-```
+``` csharp
     [Transaction(TransactionMode.Manual)]
     [Regeneration(RegenerationOption.Manual)]
     public class ExportPCF : IExternalCommand

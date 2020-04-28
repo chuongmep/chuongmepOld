@@ -19,7 +19,7 @@ Mình sẽ sử dụng **List.SortByFunction** và sắp xếp lại chúng theo
 ### Revit API C-Sharp
 
 Mình sử dụng thư viện **Linq** với **OrderBy** để làm được điều này, các bác lưu ý là **OrderBy** có thể sử dụng khi mình chuyển qua list trước nhé .
-```
+``` csharp
 FilteredElementCollector Rooms = new FilteredElementCollector(xdoc);
             temc.WherePasses(rmfilter).WhereElementIsNotElementType();
 
@@ -29,7 +29,7 @@ FilteredElementCollector Rooms = new FilteredElementCollector(xdoc);
 ```
 ### Python 
 Đối với python thì ngắn gọn và mình sẽ dùng với cú pháp lambda như thế này và **sorted** theo **Funtion**
-```
+``` python
 RoomSort = sorted(Room, key = lambda x:x.get_Parameter(BuiltInParameter.ROOM_AREA).AsDouble())
 OUT = RoomSort.reverse()
 ```

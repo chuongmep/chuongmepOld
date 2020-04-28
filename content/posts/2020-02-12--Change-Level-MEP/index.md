@@ -20,7 +20,7 @@ Các **Element** MEP được chia làm hai loại chính để set, đó là lo
 Mở Dynamo lên và kéo dây thôi các bác ơi 😄
 Đầu tiên mình lấy về các đối tượng Element có trong View cái đã, mình sẽ sài Node **View** và Scripts này để lấy về tất cả các Element có trong view đã chọn.Nếu các bác muốn lấy về hết tất cả các View để người dùng chọn trong giao diện Form thì xem lại cái bài viết trước của mình ở <a href="https://chuongmep.com/Get-all-view-in-Dynamo/" target="_blank">đây</a>.
 
-```
+``` python
 #GetAllElementInView
 import clr
 clr.AddReference('RevitAPI')
@@ -43,7 +43,7 @@ Ngon lành cành đào, giờ trước tiên tìm cái nào có parameter có t�
 ![](https://github.com/chuong9x/DataBlog/blob/master/Change%20Level%20MEP/Filter.png?raw=true)
 
 Giờ mình sẽ giải quyết cho khúc lằng nhằng kia, đối tượng nào là co tê cút thì cao độ sẽ dùng thuật toán thay đổi đi cho bằng lại với cái cao độ gốc , cái nào là ống ác thì để nguyên lại còn không thích thì cứ cộng trừ cũng chả sao.Mình có một đoạn Scripts để giải quyết gọn gàng cho vấn đề trên như sau :
-```
+``` python
 #PackageMEPover
 import clr
 clr.AddReference('RevitAPI')

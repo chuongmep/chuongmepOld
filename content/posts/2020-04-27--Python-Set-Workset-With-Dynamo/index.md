@@ -12,7 +12,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 Bài viết này mình viết ra để ghi lại một câu hỏi của A Thiện từ <a href="https://www.facebook.com/groups/RACVN/" target="_blank">Revit API Community Vietnam</a> đó là muốn gán những workset tự động cho danh sách đối tượng có trong mô hình. Ví dụ Grid và Levels sẽ đc gán tự trong workset : `Share Levels and Grids`. Nhưng viết bằng ngôn ngữ Python.Cùng xem cách viết của mình giải quyết của mình với mã như nào nhé.
 
 ### Thư viện mẫu sử dụng 
-```
+``` python
 #Copyright(c) 2020, chuongho
 # @chuongmep, https://chuongmep.com/
 #Created by Chuong.Ho
@@ -30,7 +30,7 @@ uidoc=DocumentManager.Instance.CurrentUIApplication.ActiveUIDocument
 from System.Collections.Generic import List
 ```
 ### Lấy về đỐi tượng muốn set 
-```
+``` python
 sharedGridWorksetId=0
 eleName = []
 eleId= []
@@ -44,7 +44,7 @@ elems = FilteredElementCollector(doc,doc.ActiveView.Id).WherePasses(filter).ToEl
 ```
 
 ### Lấy ra danh sách các workset 
-```
+``` python
 if doc.IsWorkshared== True:
     try:
     	wslist = FilteredWorksetCollector(doc).OfKind(WorksetKind.UserWorkset).ToWorksets()
@@ -54,14 +54,14 @@ if doc.IsWorkshared== True:
 ```
 ### Đặt điều kiện cho workset 
 
-```
+``` python
 for ws in wslist:
     if ws.Name.Contains("Shared Levels and Grids"):
         sharedGridWorksetId = ws.Id.IntegerValue
 ```
 ### Set Workset và xuất kết quả 
 
-```
+``` python
 TransactionManager.Instance.EnsureInTransaction(doc)
 for e in elems :
     try:

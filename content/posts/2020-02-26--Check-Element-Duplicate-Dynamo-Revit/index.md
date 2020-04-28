@@ -20,7 +20,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 Thuật toán lọc ra đối tượng trùng lặp 
 
-```
+``` python
 #Cái mớ thư viện mình biến xóa nên để cho ngầu vậy thôi :))
 import clr
 clr.AddReference('ProtoGeometry')

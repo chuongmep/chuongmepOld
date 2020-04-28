@@ -16,7 +16,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ### Nên sử dụng 
 
-```
+``` csharp
 using (Transaction tran = new Transaction(doc, "Set Parameter"))
             {
                 tran.Start();
@@ -31,7 +31,7 @@ using (Transaction tran = new Transaction(doc, "Set Parameter"))
             }
 ```
 ### Không nên sử dụng
-```
+``` csharp
 using (Transaction tran = new Transaction(doc, "Set Parameter"))
 			{
 				foreach(Element e in elementSet)

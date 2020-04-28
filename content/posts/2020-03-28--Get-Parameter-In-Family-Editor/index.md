@@ -15,7 +15,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 
 ### Thư viện khai báo
 
-```
+``` python
 import clr
 
 clr.AddReference('ProtoGeometry')
@@ -33,7 +33,7 @@ from RevitServices.Transactions import TransactionManager
 doc = DocumentManager.Instance.CurrentDBDocument
 ```
 ### Chuyển đổi danh sách đầu vào sang List
-```
+``` python
 
 def tolist(obj1):
     if hasattr(obj1,"__iter__"): return obj1
@@ -43,7 +43,7 @@ def tolist(obj1):
 ### Chuyển đối tượng về đối tượng Revit
 
 
-```
+``` python 
 fams = UnwrapElement(tolist(IN[0]))
 name = []
 parameter = []
@@ -51,7 +51,7 @@ parameter = []
 ```
 ### Khai báo một Class FamilyOption
 
-```
+``` python
 class FamilyOption(IFamilyLoadOptions):
     def OnFamilyFound(self, familyInUse, overwriteParameterValues):
         overwriteParameterValues = True
@@ -64,7 +64,7 @@ class FamilyOption(IFamilyLoadOptions):
 
 ### Xử lý thuật toán
 
-```
+``` python
 try:
 
     for f in fams:

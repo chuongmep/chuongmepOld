@@ -17,12 +17,12 @@ Unwrapping : Hiểu đơn giản nhất là gì , chính là đòi em Dynamo m�
 
 Cú Pháp : 
 - Viết với một Funtion để sử dụng lại (**Python**)
-```
+``` python
 def Unwrap(item):
     return UnwrapElement(item)
 ```
 - Viết với một dòng đơn
-```
+``` python
 Input = UnwrapElement( IN[0] )
 ```
 Lỗi nếu thiếu :
@@ -31,7 +31,7 @@ Nếu mình không sử dụng **UnwrapElement** thì đa số là sẽ báo l�
 ![](pic/Screendsdashot_ssdsdsdư1.png)
 
 Ví dụ lấy về type_parameter từ một Đối tượng bên ngoài (**Python**)
-```
+``` python
 group = UnwrapElement(IN[0])
 group_type_id = group.GetTypeId()
 group_type = doc.GetElement(group_type_id)
@@ -49,7 +49,7 @@ Hãy nhìn Class dưới đây để hình dung rõ hơn về ToDSType
 
 Ví dụ về lấy ElementId mô tả cho InternalElement :
 
-```
+``` Csharp
 /// <summary>
         /// 
         /// </summary>
@@ -66,7 +66,7 @@ Ví dụ về lấy ElementId mô tả cho InternalElement :
 
 Ví dụ tạo tường :
 
-```
+``` csharp
  var walls = new List<Revit.Elements.Wall>();
   //elements creation and modification has to be inside of a transaction
   TransactionManager.Instance.EnsureInTransaction(Document);
@@ -90,7 +90,7 @@ Ví dụ tạo tường :
 Chuyển đổi qua chuyển đổi lại từ đối tượng Revit sang Dynamo và ngược lại , một ngày nào đó nó chuyển qua chỗ khác thì cũng sẽ có thêm vài cái nữa, đơn giản là vậy 
 - Từ Revit Sang Dynamo 
 
-```
+``` csharp
 //Elements
 Element.ToDSType(bool);
 //Geometry
@@ -112,7 +112,7 @@ BoundingBoxXYZ.ToProtoType() > BoundingBox
 ```
 - Từ Dynamo sang Revit
 
-```
+``` csharp
 //Elements
 Element.InternalElement
 //Geometry

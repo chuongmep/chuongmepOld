@@ -38,7 +38,7 @@ Trông cũng sịn sò phết, thử gõ vài dòng xin chào thế giới xem
 
 Mình thử can thiệp vào Element trong Revit với vài dòng code cơ bản xem sao, nhấn nút Run để chạy thử nhé.
 
-```
+``` python
 from Autodesk.Revit.UI.Selection import *
 uidoc = __revit__.ActiveUIDocument
 doc = __revit__.ActiveUIDocument.Document

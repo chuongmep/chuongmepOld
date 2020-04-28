@@ -12,7 +12,7 @@ Hôm nay lại quay lại với chủ đề dọn rác , đúng là cái này tr
 ---
 ### Delete Unused View Templates
 
-```
+``` python
 import clr
 clr.AddReference('RevitAPI')
 from Autodesk.Revit.DB import *
@@ -103,7 +103,7 @@ OUT = output
 
 ### Delete Line Patterns
 
-```
+``` python
 
 import clr
 
@@ -149,7 +149,7 @@ OUT = output
 
 ### Delete Unused Filters
 
-```
+``` python
 
 import clr
 clr.AddReference('ProtoGeometry')

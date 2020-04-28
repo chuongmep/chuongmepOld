@@ -34,7 +34,7 @@ Tiếp theo là các bác vào <a href="https://github.com/gtalarico/ironpython-
 
 Ở bài này mình sẽ hướng dẫn cho **Visual Sudio Code** thôi nhé vì mình đang sài mỗi em nó.Các bác chỉ việc gõ tổ hợp phím` Crt+Shift+P `vào phần **OpenSetting**(Json) dán thêm đoạn này vào : 
 
-```
+``` python
 //Python
     "python.linting.enabled": false,
     "python.linting.pep8Enabled": false,

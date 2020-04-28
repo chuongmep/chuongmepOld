@@ -61,7 +61,7 @@ Sau khi hoàn tất ở trên chỉnh sửa các thứ giờ mình thử với m
 
 Đây là đoạn mã strong **script.py**.Nếu máy bạn chưa cài IDE thì xem qua các IDE nên sử dụng ở trong bài viết [này](https://chuongmep.com/Autocomplete-stubs-for-common-IronPython-NET-libraries/) mình có viết rồi nè.
 
-```
+``` python
 __doc__ = 'Pick Object Element'
 __author__ = 'HO VAN CHUONG'
 __title__ = 'Element'

@@ -12,7 +12,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 Các bác sử dụng Python Scripts này để lấy về tất cả các View có trong Revit nhé ! 
 
 ### Bước 1 : Khai báo thư viện
-```
+``` python
 import clr
 clr.AddReference('ProtoGeometry')
 from Autodesk.DesignScript.Geometry import *
@@ -38,7 +38,7 @@ clr.ImportExtensions(Revit.Elements)
 Refresh = IN[0]
 ```
 ### Bước 3 : Lấy về Tất cả các View có trong mô hình với <a href="https://www.revitapidocs.com/2015/263cf06b-98be-6f91-c4da-fb47d01688f3.htm" target="_blank">FilteredElementCollector</a>  
-```
+``` csharp
 doc = DocumentManager.Instance.CurrentDBDocument
 collector = FilteredElementCollector(doc)
 views = collector.OfClass(View).OfCategory(BuiltInCategory.OST_Views).ToElements()

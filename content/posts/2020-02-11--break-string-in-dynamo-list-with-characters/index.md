@@ -14,7 +14,7 @@ Hôm nay mình sẽ cùng tản mạn về làm như thế nào để ngăn các
 Sau đây là đoạn Scripts mình thực hiện để làm được điều đó.
 ### Bước 1 :
 Sao chép đoạn code bên dưới vào <a href="https://primer.dynamobim.org/07_Code-Block/7-1_what-is-a-code-block.html" target="_blank">Code block</a>
-```
+``` h
 n = DSCore.List.Count(l);
 result = l[0];
 separator =",";
