@@ -12,7 +12,7 @@ Chào mừng các bác đã ghé thăm blog của mình.😄
 Scripts dưới đây sẽ cho phép các bác tạo ra một Solid khớp với vùng Crop View mà ta đã định sẵn trong View đã chọn.Bài toán này là từ một người trong group hỏi mình việc đặt khối này không khớp với vị trí mong muốn.
 
 ### Scripts
-``` CSharp
+``` csharp
 public static Autodesk.DesignScript.Geometry.Solid CreateCutPlaneSolid(global::Revit.Elements.Element planv)
         {
 
