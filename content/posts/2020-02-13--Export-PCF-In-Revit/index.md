@@ -2,7 +2,7 @@
 title: "Export PCF From Revit With Dynamo And Addin"
 subTitle: "Xuất tệp PCF từ Revit với Dynamo và Addin"
 category: revitapi
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄

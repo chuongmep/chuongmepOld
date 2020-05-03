@@ -2,7 +2,7 @@
 title: "What’s new with Dynamo Core 2.5?"
 subTitle: "Có gì mới trong phiên bản Dynamo Core 2.5"
 category: dynamo
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.

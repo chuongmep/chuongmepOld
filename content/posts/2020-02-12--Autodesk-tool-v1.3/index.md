@@ -2,7 +2,7 @@
 title: "Autodesk Tool V1.3"
 subTitle: "Sửa lỗi thông báo yêu cầu bản quyền Autodesk"
 category: tools
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄

@@ -2,7 +2,7 @@
 title: "Autocomplete stubs for common IronPython/.NET libraries"
 subTitle: "Tự động hoàn tất mã cho các thư viện IronPython /.NET"
 category: python
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄

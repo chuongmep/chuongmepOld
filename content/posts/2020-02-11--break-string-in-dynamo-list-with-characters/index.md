@@ -2,7 +2,7 @@
 title: "Break string in Dynamo list with characters"
 subTitle: "Làm thế nào để ngăn cách phần tử danh sách với kí tự"
 category: dynamo
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.

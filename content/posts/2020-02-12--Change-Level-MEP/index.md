@@ -2,7 +2,7 @@
 title: "Change Level MEP Revit In Dynamo"
 subTitle: "Thay đổi Cao độ đối tượng MEP trong Revit với Dynamo"
 category: dynamo
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄

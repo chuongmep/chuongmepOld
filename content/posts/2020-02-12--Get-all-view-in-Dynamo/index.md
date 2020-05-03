@@ -2,7 +2,7 @@
 title: "Get All View In Dynamo"
 subTitle: "Làm thế nào để lấy các View trong Dynamo"
 category: dynamo
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄

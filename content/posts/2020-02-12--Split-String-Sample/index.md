@@ -2,7 +2,7 @@
 title: "How to split string in Dynamo"
 subTitle: "Làm thế nào  để ngắt một chuỗi trong Dynamo"
 category: dynamo
-cover: cover.png
+layout: post
 ---
 
 Chào mừng các bác đã ghé thăm blog của mình.😄
